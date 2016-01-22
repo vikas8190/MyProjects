@@ -1,0 +1,4500 @@
+Found 100 hits. for portable operating systems
+*************************************************************************************
+1. CACM-3127.html score=1.1755296
+#####################################################
+DOCUMENT HIGHLIGHT:
+Portable Real-Time Operating System 
+
+Thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  It is currently running on two minicomputers
+with quite diffe
+#####################################################
+2. CACM-1461.html score=0.50642985
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Systems
+
+CACM March, 1966
+
+CA660311 JB March 3, 1978  1:26 PM
+
+1461	5	1461
+1461	5	1461
+1461	5	1461
+
+
+
+
+#####################################################
+3. CACM-3068.html score=0.40902123
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Systems
+
+Program verification applied to kernel architectures
+forms a promising method for providing 
+uncircumventably secure, shared computer systems.  A
+precise definition of data security
+#####################################################
+4. CACM-2246.html score=0.3299833
+#####################################################
+DOCUMENT HIGHLIGHT:
+Portable Software
+
+An increasing amount of software is being
+implemented in a portable form.  A popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent
+#####################################################
+5. CACM-2111.html score=0.3230007
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems Programs
+
+Several specialized techniques are shown for efficiently
+incorporating spelling correction algorithms in
+to compilers and operating systems.  These include the use of syntax
+and sema
+#####################################################
+6. CACM-2069.html score=0.31651866
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems, memory management
+
+2.44 4.32 4.39 6.20 6.21
+
+CA700415 JB February 13, 1978  2:36 PM
+
+2069	5	2069
+2069	5	2069
+2069	5	2069
+
+
+
+
+#####################################################
+7. CACM-2319.html score=0.30766326
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System Performance
+
+An overview of the current and future positions
+with respect to operating system performance 
+is given.  While a great deal of information and a large
+number of models fo
+#####################################################
+8. CACM-2740.html score=0.30766326
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System
+
+The paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  The processes synchronize by
+means of semaphores and extended s
+#####################################################
+9. CACM-1462.html score=0.28890023
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Systems
+
+The Basic software for all newer computers
+is built on the well-established need for standard 
+operating systems. This implies that all applications-no
+matter how large, complex or 
+#####################################################
+10. CACM-1728.html score=0.28890023
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating 
+behavior in those multiprogramming systems in which
+programs are organized into fixed length pages.  
+The data collected from the interpretive execution of
+a number of paged programs are us
+#####################################################
+11. CACM-2597.html score=0.28045723
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System Structuring Concept
+
+This paper develops Brinch-Hansen's concept of
+a monitor as a method of structuring an operating 
+system.  It introduces a form of synchronization, describes
+a po
+#####################################################
+12. CACM-2629.html score=0.28045723
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system for the Digital Equipment 
+Corporation PDP-11/40 and 11/45 computers.  It offers
+a number of features seldom found even in larger 
+operating systems, including: (1) a hierarchical fil
+#####################################################
+13. CACM-1750.html score=0.2741132
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems, multiprocessor 
+operating systems, control data corporation 6600, operating system with ECS
+
+4.30 4.32
+
+CA680506 JB February 23, 1978  9:27 AM
+
+1750	5	1750
+1750	5	1750
+1750	5	1750
+2
+#####################################################
+14. CACM-2372.html score=0.26916727
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems.
+
+CACM April, 1972
+
+Conway, R. W.
+Maxwell, W. L.
+Morgan, H. L.
+
+security, privacy, access control confidentiality,
+operating systems, access management, data banks, 
+management infor
+#####################################################
+15. CACM-1247.html score=0.26857498
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Environment for Dynamic-Recursive
+Computer Programming Systems
+
+Presented in this paper is a brief nontechnical
+introduction to OEDIPUS, a computer programming 
+system which can serve as an 
+#####################################################
+16. CACM-2080.html score=0.26857498
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems to suit diverse 
+requirements of program scheduling and resource allocation.  The system
+nucleus simulates an environment in which program execution and input/output
+are handled unif
+#####################################################
+17. CACM-2482.html score=0.26857498
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems for the most frequently
+occurring resource allocation problems
+
+CACM July, 1973
+
+Howard, J. H. Jr.
+
+deadlocks, resource allocation, operating systems,
+multiprogramming, hierarchical systems
+
+4
+#####################################################
+18. CACM-2867.html score=0.26857498
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Systems
+
+This paper describes the design philosophy
+used in the construction of a family of operating 
+systems. It is shown that the concepts of module and
+level do not coincide in a hierarc
+#####################################################
+19. CACM-2379.html score=0.26133278
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System
+
+The Venus Operating System is an experimental
+multiprogramming system which supports five or 
+six concurrent users on a small computer.  The system was
+produced to test the effect of
+#####################################################
+20. CACM-1923.html score=0.25321493
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems, interfaces input-output,
+high level languages, command language
+
+4.22 4.30 4.31 4.41
+
+CA690304 JB February 20, 1978  9:12 AM
+
+1923	5	1923
+1923	5	1923
+1923	5	1923
+
+
+
+
+#####################################################
+21. CACM-1680.html score=0.24681911
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System/360.  Adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it
+#####################################################
+22. CACM-2840.html score=0.24135262
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Systems
+
+A model of protection mechanisms in computing
+systems is presented and its appropriateness 
+is argued.  The "safety" problem for protection systems
+under this model is to determine 
+#####################################################
+23. CACM-3025.html score=0.24135262
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems covering
+a price range of five to one.  The origin and 
+evolution of the hardware, operating system, and languages
+are described in terms of technological change, 
+user requirements, and user 
+#####################################################
+24. CACM-2621.html score=0.23838985
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems from
+unauthorized users is often achieved by the use 
+of passwords.  By using one-way ciphers to code the passwords,
+the risks involved with storing the passwords 
+in the computer can be avoid
+#####################################################
+25. CACM-2378.html score=0.23371433
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System Based on the Concept of a Supervisory Computer
+
+An operating system which is organized as a
+small supervisor and a set of independent processes 
+are described.  The supervisor handles
+#####################################################
+26. CACM-2541.html score=0.23371433
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system, 
+and machine (via microcode) to create an interactive programming
+laboratory.  It describes the synergistic 
+effect that the freedom to move and alter features from
+one of these doma
+#####################################################
+27. CACM-2632.html score=0.23371433
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System
+
+This paper describes the design philosophy of
+HYDRA-the kernel of an operating system for C.mmp, 
+the Carnegie-Mellon Multi-Mini-Processor.  This philosophy
+is realized through the i
+#####################################################
+28. CACM-1747.html score=0.23342077
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Three possible criteria of this
+kind are input
+#####################################################
+29. CACM-2317.html score=0.23112017
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems and Languages 1965-1975
+
+In spite of impressive gains by PL/I, Fortran
+and Cobol remain the languages in which most 
+of the world's production programs are written and will
+remain so into the 
+#####################################################
+30. CACM-2424.html score=0.22735322
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System Decisions
+
+Dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using independent
+hardware and softw
+#####################################################
+31. CACM-2138.html score=0.22647284
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems Programming
+
+A language, BLISS, is described.  This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the PDP-10): co
+#####################################################
+32. CACM-2151.html score=0.22647284
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  The TX-2 computer 
+at MIT Lincoln Laboratory was used for the impleme
+#####################################################
+33. CACM-1751.html score=0.2238125
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems is an adequate model for
+program behavior.  In this paper a new model, the 
+"working set model," is developed. The working set
+of pages associated with a process, defined to be 
+the collection
+#####################################################
+34. CACM-2320.html score=0.2238125
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems but also within user programs.
+
+CACM July, 1972
+
+Hansen, P. B.
+
+structured multiprogramming, programming languages,
+operating systems, concurrent processes, shared 
+data, mutual excl
+#####################################################
+35. CACM-2950.html score=0.2238125
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems.  The policy-driven scheduler
+of Bernstein and Sharp is discussed as an example 
+of such an implementation
+
+CACM July, 1977
+
+Ruschitzka, M.
+Fabry, R. S.
+
+scheduling algorithms, sched
+#####################################################
+36. CACM-3196.html score=0.22226858
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+37. CACM-3174.html score=0.22156307
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating systems, passwords, computer security
+
+2.41 4.35
+
+CA791102 DB January 18, 1980  10:03 AM
+
+2626	4	3174
+2786	4	3174
+2840	4	3174
+2919	4	3174
+3017	4	3174
+3110	4	3174
+3174	4	3174
+2629	5	3174
+3174
+#####################################################
+38. CACM-1930.html score=0.21998885
+#####################################################
+DOCUMENT HIGHLIGHT:
+Portable Random Number Generator
+
+Extremely portable subroutines are sometimes
+needed for which moderate quality and efficiency 
+suffice.  Typically, this occurs for library functions
+(like random num
+#####################################################
+39. CACM-1226.html score=0.21734169
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating efficiency. 
+ This paper provides the systems designer with an information
+source which describes ten techniques that 
+may be employed for organizing structured data.  The
+characteristics of
+#####################################################
+40. CACM-3141.html score=0.21734169
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems
+
+4.32 4.35 5.25 5.32
+
+CA790502 DH June 5, 1979  2:35 PM
+
+3141	5	3141
+3141	5	3141
+3141	5	3141
+
+
+
+
+#####################################################
+41. CACM-1324.html score=0.21344522
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems which are programmed and operating 
+are described and reviewed.  The systems range from a conversation
+machine to programs which make sentences 
+about pictures and systems which translate from
+#####################################################
+42. CACM-1951.html score=0.21344522
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems is being examined. 
+It is shown that the gamma distribution can be used to
+describe the discrete variables.  Approximations to the gamma distribution
+by the exponential distribution are discus
+#####################################################
+43. CACM-2522.html score=0.21344522
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems 
+has developed the working set model for program behavior,
+and are source allocation strategy based on 
+this model has been proposed.  Two implementations
+along these principles have been repo
+#####################################################
+44. CACM-1236.html score=0.20095375
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating on the IBM 7094 is described.  The system 
+is characterized by the fact that several hundred different
+methods are available to analyze documents 
+and search requests.  This feature is used 
+#####################################################
+45. CACM-1752.html score=0.20095375
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating system
+
+Task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combined batch processing
+and time-sharing environment.  A syno
+#####################################################
+46. CACM-2777.html score=0.20095375
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems, co-operating processes,process
+synchronization primitives
+
+4.3
+
+CA750311 JB January 9, 1978  4:24 PM 
+
+2320	4	2777
+2597	4	2777
+2777	4	2777
+2851	4	2777
+2895	4	2777
+2912	4	2777
+2946	4
+#####################################################
+47. CACM-0322.html score=0.1986582
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating a computer efficiently in
+view of the growing number of programming systems 
+available.  Each of these programming systems has been
+coded to utilize a fixed set of hardware components 
+witho
+#####################################################
+48. CACM-2624.html score=0.1986582
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems have been implemented
+on a limited number of third generation computer 
+systems, e.g. CP-67 on the IBM 360/67.  From previous
+empirical studies, it is known that certain third 
+generation comp
+#####################################################
+49. CACM-3026.html score=0.1986582
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems are Sperry Univac's
+large-scale main frame computer systems.  Beginning 
+with the 1107 in 1962, the 1100 series has progressed
+through a succession of eight compatible computer 
+models to the 
+#####################################################
+50. CACM-2358.html score=0.1930821
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems has grown, the need to share information 
+among system users has become increasingly apparent.
+ Many contemporary systems permit some degree of 
+sharing.  Usually, sharing is accomplished by a
+#####################################################
+51. CACM-2374.html score=0.18991122
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating efficiency over fixed partitioning. 
+
+CACM March, 1972
+
+Coffman Jr., E. G.
+Ryan Jr., T. A.
+
+storage partitioning, memory management, dynamic
+storage allocation, space sharing, multiprogramme
+#####################################################
+52. CACM-3137.html score=0.18991122
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating parameters on overall cost per transaction.
+ The technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+CACM April, 1979
+
+Bucci, G.
+Streeter,
+#####################################################
+53. CACM-2036.html score=0.18111807
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems is given.
+
+CACM July, 1970
+
+Grant, C. A.
+
+time-sharing, command languages, pseudo-teletype, interaction,
+conditional job control, operating systems
+
+3.80 3.81 4.29 4.39
+
+CA700701 JB February 1
+#####################################################
+54. CACM-3028.html score=0.18111807
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems stand out: the Mark I (developed 
+over the period 1946-49) and the Atlas (1955-62). 
+This paper places each computer in its his torical 
+context and then describes the architecture and system
+
+#####################################################
+55. CACM-2184.html score=0.160763
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system.
+ The two functions are discussed in terms of the 
+same basic concepts in order to identify the extent
+to which they overlap. It is suggested that there 
+is some similarity between th
+#####################################################
+56. CACM-2297.html score=0.160763
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating under demand paging.  In
+the model presented, the number of page-frames of 
+main memory allocated to a problem program varies in
+time.  These changes in memory configuration are 
+represented
+#####################################################
+57. CACM-2622.html score=0.160763
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the system.  The system compares
+this password with one recorded in a Password 
+Table which is
+#####################################################
+58. CACM-1892.html score=0.15892656
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems, memory management
+
+2.44 4.32 4.39 6.20 6.21
+
+CA690601 JB February 17, 1978  1:43 PM
+
+1751	4	1892
+1805	4	1892
+1846	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+
+#####################################################
+59. CACM-2625.html score=0.15892656
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems on the basis of protection, simplicity of 
+programming conventions, and efficient implementation.
+
+CACM July, 1974
+
+Fabry, R. S.
+
+addressing, capabilities, addressing hardware,
+protection, pro
+#####################################################
+60. CACM-0696.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating 
+data to a central Data Processing Center.  Two RCA 301
+EDP Systems are used to record and control the 
+flow of data transmitted to the Data Processing Center.
+ A large capacity RCA 366 Data
+#####################################################
+61. CACM-1647.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system.  FORTRAN IV was selected as the source
+language in order to achieve maximum language 
+compatibility with other available compiling systems,
+in particular the IBM 7040/44 FORTRAN IV s
+#####################################################
+62. CACM-2095.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating con
+ditions on a computer system which utilizes variable sized segments
+(the Burroughs B5500) are discussed.  The most striking feature
+of the measurements is the large number of small segme
+#####################################################
+63. CACM-2582.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems where primary memory
+is managed according to a working set strategy. 
+ It is based on the concept of critical working set, a
+working set which does not contain the next memory 
+reference.  The
+#####################################################
+64. CACM-2972.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems.
+
+CACM April, 1977
+
+Robinson, L.
+Levitt, K. N.
+
+hierarchical structure, program verification, structured
+programming, formal specification, abstraction, 
+and programming methodology
+
+#####################################################
+65. CACM-3006.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems 
+a redefined.  One type of anomaly, for example, concerns
+the fact that, with certain reference strings 
+and paging algorithms, an increase in mean memory allocation
+may result in an
+#####################################################
+66. CACM-3050.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems Design Education: A Gaming Approach
+
+One of the problems facing managers of computer
+installations is the problem of configuring 
+the computer system to meet the demands made by the
+mix of job
+#####################################################
+67. CACM-3105.html score=0.15825933
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems by access control mechanisms.  This
+paper shows how to extend programming languages 
+to provide controlled sharing.  The extension permits
+expression of access constraints on shared 
+#####################################################
+68. CACM-1069.html score=0.14430283
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating Speeds of Computers
+
+CACM May, 1964
+
+Raichelson, E.
+Collins, G.
+
+CA640520 JB March 9, 1978  11:35 PM
+
+1069	5	1069
+1069	5	1069
+1069	5	1069
+1653	5	1069
+2989	5	1069
+963	6	1069
+1069	6	1069
+1069	
+#####################################################
+69. CACM-1755.html score=0.14430283
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating system Principles
+
+CACM May, 1968
+
+ACM Special Interest Committee
+
+CA680501 JB February 23, 1978  9:56 AM
+
+1755	5	1755
+1755	5	1755
+1755	5	1755
+
+
+
+
+#####################################################
+70. CACM-2796.html score=0.14430283
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System Structuring Concept (Corrigendum)
+
+CACM February, 1975
+
+Hoare, C. A. R. 
+
+CA750203 JB January 12, 1978  8:45 AM
+
+2796	5	2796
+2796	5	2796
+2796	5	2796
+2866	5	2796
+2356	6	2796
+2597	6	279
+#####################################################
+71. CACM-1517.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating plans, where each
+plan incorporates a certain marketing strategy, 
+an allocation of productive inputs, and a total cost.
+ The results of the simulated activity under each 
+plan are subjected
+#####################################################
+72. CACM-1810.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating across a memory-to-storage 
+interface with a very large speed difference.  The disadvantages
+of prefolding, which is required when 
+the folding is manual, are examined, and a number of
+the i
+#####################################################
+73. CACM-1854.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems, 
+which are prime examples of programs with concurrent
+activities.  The scheme includes a set of basic 
+instructions for the generation, termination, and synchronization
+of parallel 
+#####################################################
+74. CACM-1877.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems is the selection of a resource allocation 
+policy that will prevent deadlock.  Deadlock is the
+situation in which resources have been allocated 
+to various tasks in such a way that none of the
+#####################################################
+75. CACM-2342.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating processes,
+formal programs, interference, mutual exclusion, 
+operating systems, parallel processes
+
+4.0 4.10 4.30 4.32 4.42 5.24 6.20
+
+CA720603 JB January 31, 1978  8:44 AM
+
+1781	4	2342
+1828
+#####################################################
+76. CACM-2535.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating systems
+
+3.80 3.81 6.20
+
+CA730304 JB January 24, 1978  11:13 AM
+
+2535	5	2535
+2535	5	2535
+2535	5	2535
+
+
+
+
+#####################################################
+77. CACM-2542.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system development, language processing
+software evaluation, compilers, system programming, 
+supervisory systems, debugging, program maintenance,
+modeling, system integration, simulation
+
+4.
+#####################################################
+78. CACM-2849.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems which can be viewed as either local
+computer networks or loosely coupled multiprocessors. 
+ An Ethernet's shared communication facility, its Ether,
+is a passive broadcast medium with no centra
+#####################################################
+79. CACM-3002.html score=0.12660746
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems may be derived from
+it by an appropriate selection of its parameters. 
+ This model has already been used in the optimization of
+library routines' storage at a large scale operating 
+system.
+
+C
+#####################################################
+80. CACM-1050.html score=0.10307345
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating program using these techniques.
+
+CACM June, 1964
+
+Brian, W. J.
+
+CA640617 JB March 9, 1978  9:09 PM
+
+1050	4	1050
+1050	4	1050
+1050	4	1050
+1050	4	1050
+1050	4	1050
+1102	4	1050
+1226	4	1050
+1393	4
+#####################################################
+81. CACM-1472.html score=0.10203751
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system for the UNIVAC 1107 at Case
+Institute is reviewed.  The system is of interest 
+because of the low turnaround times achieved, the high
+throughput achieved and the lack of an operating 
+#####################################################
+82. CACM-1591.html score=0.092191696
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system of a large computer 
+is described.  The model transferred control to the
+operating system to execute functions other than 
+teaching, and then recovered control in order to resume
+teac
+#####################################################
+83. CACM-2357.html score=0.08926423
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating as part of a normal
+batch system for the CDC 6600 computer is described. 
+ The system, which required one man-year for initial
+software implementation, although basically simple,
+provides th
+#####################################################
+84. CACM-2868.html score=0.08926423
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System Design
+
+The main features of a general purpose multiaccess
+operating system developed for the CDC 6400 
+at Berkeley are presented, and its good and bad points are
+discussed as they ap
+#####################################################
+85. CACM-2920.html score=0.08926423
+#####################################################
+DOCUMENT HIGHLIGHT:
+operating system and the processes
+allows formalization of risk and safety concepts. 
+ The bipartite graph representation of this game may
+then be used to construct explicitly the set of safe 
+states 
+#####################################################
+86. CACM-0018.html score=0.08829741
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+87. CACM-0025.html score=0.08829741
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+88. CACM-0597.html score=0.08829741
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems Written in COBOL
+
+CACM May, 1962
+
+Emery, J. C.
+
+CA620508 JB March 20, 1978  1:47 PM
+
+597	5	597
+597	5	597
+597	5	597
+
+
+
+
+#####################################################
+89. CACM-0652.html score=0.08829741
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+90. CACM-1360.html score=0.08829741
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems Used for Data Transmission* (An ASA Tutorial)
+
+CACM October, 1966
+
+CA661007 JB March 2, 1978  3:54 PM
+
+1360	5	1360
+1360	5	1360
+1360	5	1360
+
+
+
+
+#####################################################
+91. CACM-1464.html score=0.08746072
+#####################################################
+DOCUMENT HIGHLIGHT:
+Operating System
+
+An ALGOL translator has been prepared and integrated
+into the IBSYS Operating System.  Assembly 
+and "go" features of IBSYS permit immediate execution with
+optional listings, decks a
+#####################################################
+92. CACM-2311.html score=0.08637957
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems development 
+process, functional systems, management systems
+
+2.0 3.50 4.0 6.20
+
+CA720717 JB January 30, 1978  11:22 AM
+
+2311	5	2311
+2311	5	2311
+2311	5	2311
+
+
+
+
+#####################################################
+93. CACM-2407.html score=0.08637957
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems in organizations is discussed, and a 
+curriculum is proposed for an undergraduate program. 
+Material necessary for such programs is identified, 
+and courses incorporating it are specifiedetail
+#####################################################
+94. CACM-2345.html score=0.08110635
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems in organizations is discussed, and a 
+curriculum is proposed for graduate professional programs
+in universities, at the Master's level.  Material 
+necessary for such programs is identified, an
+#####################################################
+95. CACM-2583.html score=0.07804462
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+96. CACM-0238.html score=0.07726023
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+97. CACM-0651.html score=0.07726023
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems for Information Retrieval
+
+CACM January, 1962
+
+Grems, M.
+
+CA620108 JB March 20, 1978  4:36 PM
+
+651	5	651
+651	5	651
+651	5	651
+
+
+
+
+#####################################################
+98. CACM-0795.html score=0.07726023
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems at the Source Language Level
+
+CACM August, 1963
+
+Ferguson, H. E.
+Berner, E.
+
+CA630803 JB March 13, 1978  8:46 PM
+
+1046	4	795
+1105	4	795
+1139	4	795
+1140	4	795
+1234	4	795
+1263	4	795
+1265	4	795
+1
+#####################################################
+99. CACM-1912.html score=0.07726023
+#####################################################
+DOCUMENT HIGHLIGHT:
+systems employed 
+by outpatient departments of hospitals.  Both major kinds
+of appointment systems-individual and block-can 
+be simulated.  The purpose of the Simulator is to enable
+the user to evalua
+#####################################################
+100. CACM-2690.html score=0.07726023
+#####################################################
+DOCUMENT HIGHLIGHT:
+Systems for Combinations
+
+CACM January, 1974
+
+Knott, G. D.
+
+combinatorics, coding system, storage mapping function
+
+4.9 5.30
+
+CA740109 JB January 18, 1978  1:42 PM
+
+2690	4	2690
+2690	4	2690
+2853	4	2690
+#####################################################
+*************************************************************************************
+Found 100 hits. for code optimization for space efficiency
+*************************************************************************************
+1. CACM-1795.html score=0.64332205
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB February 15, 1978  1:5
+#####################################################
+2. CACM-2495.html score=0.5975083
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers
+
+CACM June, 1973
+
+Stockhausen, P. F.
+
+arithmetic expressions, code generation, compilers,
+object-
+#####################################################
+3. CACM-1947.html score=0.5535952
+#####################################################
+DOCUMENT HIGHLIGHT:
+code Optimization
+
+Methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ Dominance relationshi
+#####################################################
+4. CACM-2748.html score=0.528035
+#####################################################
+DOCUMENT HIGHLIGHT:
+for interpretive code
+is described.  It is related to Bell's notion 
+of threaded code but requires less space and is more
+amenable to machine independent implementations.
+
+CACM June, 1975
+
+Dewar, R. B
+#####################################################
+5. CACM-2559.html score=0.4950907
+#####################################################
+DOCUMENT HIGHLIGHT:
+space allocation for a hash-coded table
+is altered, the table entries must be rescattered 
+over the new space.  A technique for accomplishing
+this rescattering is presented.  The technique is 
+indepen
+#####################################################
+6. CACM-1886.html score=0.44647112
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Expressions via Factorization
+
+Given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by first factoring
+the exp
+#####################################################
+7. CACM-2897.html score=0.43843484
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Generation Technique for Compilers
+
+Recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ Such a compiler translates the parsed source code into
+lower 
+#####################################################
+8. CACM-2904.html score=0.38659886
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Reduction of Operator Strength
+
+A simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  Several extensions,
+#####################################################
+9. CACM-3080.html score=0.38377044
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code 
+
+A system for proving that programs written
+in a high level language are correctly translated 
+to a low level language is described.  A primary use of
+the system is as a post optimization step i
+#####################################################
+10. CACM-2491.html score=0.37791464
+#####################################################
+DOCUMENT HIGHLIGHT:
+code not needing 
+an interpreter.  Extensions and optimizations are mentioned.
+
+CACM June, 1973
+
+Bell, J. R.
+
+interpreter, machine code, time tradeoff, space
+tradeoff, compiled code, subroutine calls,
+#####################################################
+11. CACM-2680.html score=0.3617208
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space Allocation on Disk Storage Devices
+
+When the amount of space required for file storage
+exceeds the amount which can be kept on-line, 
+decisions must be made as to which files are to be permanent
+#####################################################
+12. CACM-2537.html score=0.3568571
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space Text Storage
+
+A method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  The method relies on hand selection of a
+set of text strings which are com
+#####################################################
+13. CACM-3171.html score=0.34712863
+#####################################################
+DOCUMENT HIGHLIGHT:
+for run-time line number administration
+to be used for implementations of high level languages.  Under suitable
+circumstances, this method requires absolutely no overhead,
+in either time or space, dur
+#####################################################
+14. CACM-2464.html score=0.3463252
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Constrained Optimization [E4] (Algorithm A454)
+
+CACM August, 1973
+
+Richardson, J. A.
+Kuester, J. L.
+
+optimization, constrained optimization, Box's algorithm
+
+5.41
+
+CA730810 JB January 23, 1978  10
+#####################################################
+15. CACM-1195.html score=0.33868977
+#####################################################
+DOCUMENT HIGHLIGHT:
+for processing the 
+National Aeronautics and Space Administration linear file
+system on an IBM 1401-7090 combined data processing 
+system.  The program are note-worthy in that they create
+fixed length
+#####################################################
+16. CACM-2253.html score=0.32735753
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Matrix Calculi
+
+The paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calculi described
+#####################################################
+17. CACM-2944.html score=0.3262091
+#####################################################
+DOCUMENT HIGHLIGHT:
+code is executed
+and those that can be grouped to achieve improved 
+efficiency.
+
+CACM July, 1977
+
+Barth, J. M.
+
+garbage collection, global flow analysis, list processing,
+optimization, reference count
+#####################################################
+18. CACM-2929.html score=0.31939238
+#####################################################
+DOCUMENT HIGHLIGHT:
+for a Structured Programming Language
+
+An optimization technique known as inline substitution
+is analyzed.  The optimization consists 
+of replacing a procedure invocation by a modified copy
+of the pro
+#####################################################
+19. CACM-1655.html score=0.30841085
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Extension Procedures for Information
+Interchange* (Proposed USA Standard)
+
+CACM December, 1968
+
+standard code, code, information interchange, characters,
+shift out, shift in, escape, data link 
+e
+#####################################################
+20. CACM-2716.html score=0.28945735
+#####################################################
+DOCUMENT HIGHLIGHT:
+for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ The basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+re
+#####################################################
+21. CACM-1564.html score=0.2743894
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the conversion of decision
+tables into COBOL code is contained in the
+generator portion of the DETAB/65 preprocessor.  The
+generator analyzes a decision table and produces 
+simple COBOL conditiona
+#####################################################
+22. CACM-2423.html score=0.2743894
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Constructing Compressed Compilers
+
+This paper describes a parser-generating system
+(PGS) currently in use on the CDC-6500 computer 
+at Purdue University.  The PGS is a Fortran-coded compiler.
+ In 
+#####################################################
+23. CACM-2374.html score=0.27298835
+#####################################################
+DOCUMENT HIGHLIGHT:
+for use in multiprogramming 
+systems.  The storage requirement of programs is modeled
+as a stationary Gaussian process.  Experiments 
+justifying this model are described.  By means of this
+model dynam
+#####################################################
+24. CACM-3005.html score=0.26183242
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Machine Architecture
+
+Based on an empirical study of more than 10,000
+lines of program text written in a GOTO-less 
+language, a machine architecture specifically designed for
+structured programs i
+#####################################################
+25. CACM-2033.html score=0.26124457
+#####################################################
+DOCUMENT HIGHLIGHT:
+space required to contain the hash-coded 
+information from that associated with conventional methods.  The reduction in 
+space is accomplished by exploiting the possibility that a small fraction of 
+e
+#####################################################
+26. CACM-1651.html score=0.24911706
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Linear Programming
+
+In this descriptive article an input code
+is presented which greatly simplifies data input 
+to any linear programming solution routine, for subsequent
+use either as a pedagogic
+#####################################################
+27. CACM-2611.html score=0.24534898
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Constrained Optimization (Algorithm R454)
+
+CACM August, 1974
+
+Shere, K. D.
+
+CA740813 JB January 17, 1978  9:28 AM
+
+2611	5	2611
+2611	5	2611
+2611	5	2611
+
+
+
+
+#####################################################
+28. CACM-2858.html score=0.24334013
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the Determination of
+Addresses in Variable Length Addressing
+
+An algorithm is presented for the assignment
+of instruction addresses and formats under the 
+following conditions: (1) the length of t
+#####################################################
+29. CACM-3053.html score=0.24334013
+#####################################################
+DOCUMENT HIGHLIGHT:
+for open addressing benefit
+from recursive entry displacements, cutoffs for 
+unsuccessful searches, and auxiliary cost functions.  Compared
+with conventional methods, the new techniques 
+provide subst
+#####################################################
+30. CACM-3054.html score=0.24068223
+#####################################################
+DOCUMENT HIGHLIGHT:
+code optimization techniques.  A detailed 
+implementation combining the most effective improvements
+to Quicksort is given, along with a discussion 
+of how to implement it in assembly language.  Analyt
+#####################################################
+31. CACM-0267.html score=0.24038294
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Improving the Efficiency of ALGOL 60
+
+CACM November, 1961
+
+Wilkes, M. V.
+
+CA611101 JB March 15,1978  11:01 PM
+
+267	4	267
+1139	4	267
+1141	4	267
+1215	4	267
+1223	4	267
+1647	4	267
+1781	4	267
+1787	4	26
+#####################################################
+32. CACM-0230.html score=0.23872676
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Character Code Compatibility
+
+CACM February, 1960
+
+Bemer, R. W.
+
+CA600202 JB March 22, 1978  2:25 PM
+
+230	5	230
+230	5	230
+230	5	230
+333	5	230
+230	6	230
+
+
+
+
+#####################################################
+33. CACM-0797.html score=0.23872676
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Information Interchange
+
+CACM August, 1963
+
+CA630801 JB March 13, 1978  8:55 PM
+
+1084	5	797
+797	5	797
+797	5	797
+797	5	797
+868	6	797
+603	6	797
+644	6	797
+669	6	797
+791	6	797
+797	6	797
+
+
+
+
+#####################################################
+34. CACM-1064.html score=0.23872676
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Information
+Interchange (Proposed American Standard)
+
+CACM June, 1964
+
+CA640603 JB March 9, 1978  9:46 PM
+
+1064	5	1064
+1064	5	1064
+1064	5	1064
+
+
+
+
+#####################################################
+35. CACM-1289.html score=0.23872676
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Information Interchange
+
+CACM April, 1965
+
+CA650402 JB March 7, 1978  4:03 PM
+
+1289	5	1289
+1289	5	1289
+1289	5	1289
+
+
+
+
+#####################################################
+36. CACM-2856.html score=0.23869252
+#####################################################
+DOCUMENT HIGHLIGHT:
+for testing, and 
+two smaller problems (decision tables with one less
+condition) are created.  An optimal program (with 
+respect to average execution time or storage space, for
+example) is located onl
+#####################################################
+37. CACM-2433.html score=0.23437612
+#####################################################
+DOCUMENT HIGHLIGHT:
+for exploiting ILLIAC IV parallelism.
+ This paper reviews the hardware characteristics 
+of the ILLIAC and singles out unconventional features
+which could be expected to influence language (and 
+compil
+#####################################################
+38. CACM-1234.html score=0.23171572
+#####################################################
+DOCUMENT HIGHLIGHT:
+code for expressions 
+which minimizes stores, fetches and stack-pointer motion
+at run time, while properly trating recursion 
+and side effects of procedures.  Block structure and
+recursion are handled
+#####################################################
+39. CACM-2701.html score=0.22340249
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Global
+Flow Analysis (Abstract only--Complete paper JACM 
+23,1 January, 1976)
+
+A new algorithm for global flow analysis on
+reducible graphs is presented. The algorithm is 
+shown to treat a very ge
+#####################################################
+40. CACM-1901.html score=0.22280307
+#####################################################
+DOCUMENT HIGHLIGHT:
+efficiency 
+in computer systems is presented.  Concepts of value and
+cost of space allocation per task are defined 
+and then value and cost are combined to develop a single
+parameter termed value per 
+#####################################################
+41. CACM-0066.html score=0.22071782
+#####################################################
+DOCUMENT HIGHLIGHT:
+for a Generalized Card Code for 256 Characters
+
+CACM September, 1959
+
+Bemer, R. W.
+
+CA590903 JB March 22, 1978  4:50 PM
+
+66	5	66
+66	5	66
+66	5	66
+
+
+
+
+#####################################################
+42. CACM-1757.html score=0.21100664
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Calendar Date for Machine-to-Machine
+Data Interchange* (Proposed USA Standard)
+
+CACM April, 1968
+
+USA Standard, data code, calendar date, machine-to-machine
+data interchange, recording calend
+#####################################################
+43. CACM-1542.html score=0.2106169
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the algorithmic
+language EULER has been implemented in 
+microprogramming on an IBM System/360 Model 30 using a
+second Read-Only Storage unit.  The system consists 
+of a microprogrammed compiler an
+#####################################################
+44. CACM-2133.html score=0.21029912
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the Assignment Problem
+(Rectangular Matrices) [H] (Algorithm 415)
+
+CACM December, 1971
+
+Bourgeois, F.
+Lassalle, J. C.
+
+operations research, optimization theory,
+assignment problem, rectangular mat
+#####################################################
+45. CACM-1275.html score=0.20888591
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Structures for Protection and Manipulation
+of Variable Length Items (Corrigendum)
+
+CACM April, 1965
+
+Ramamoorthy, C. V.
+
+CA650416 JB March 7, 1978  3:31 PM
+
+1275	5	1275
+1275	5	1275
+1275	5	1275
+
+
+
+#####################################################
+46. CACM-1414.html score=0.20888591
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Information
+Interchange* (Proposed American Standard)
+
+CACM June, 1966
+
+CA660607 JB March 3, 1978  8:39 AM
+
+1414	5	1414
+1414	5	1414
+1414	5	1414
+
+
+
+
+#####################################################
+47. CACM-2835.html score=0.20701885
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Compiler Optimization
+
+A relatively simple method for the detection
+of recursive use of procedures is presented for 
+use in compiler optimization.  Implementation considerations
+are discussed, and
+#####################################################
+48. CACM-0149.html score=0.20604253
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Improved Efficiency in Solving
+Linear Programming Problems with the Simplex 
+Algorithm
+
+CACM September, 1960
+
+Dickson, J. C.
+Frederick, F. P.
+
+CA600908 JB March 20, 1978  8:43 PM
+
+149	5	149
+149	5	
+#####################################################
+49. CACM-1670.html score=0.20255528
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+50. CACM-1992.html score=0.20255528
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Hash Code Searching
+
+CACM September, 1970
+
+Lamport, L.
+
+hashing, hash code, scatter storage, calculated address,
+clustering, search, symbol table, keys, table look-up
+
+3.74 4.9
+
+CA700913 JB Februa
+#####################################################
+51. CACM-2722.html score=0.19925252
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Associative Searching
+
+This paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a data structure for storage of
+information 
+#####################################################
+52. CACM-2745.html score=0.19869836
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space Algorithm for Computing Maximal Common Subsequences
+
+The problem of finding a longest common subsequence
+of two strings has been solved in quadratic 
+time and space.  An algorithm is presented w
+#####################################################
+53. CACM-2734.html score=0.19712423
+#####################################################
+DOCUMENT HIGHLIGHT:
+for small populations, the size 
+of the request population had little effect on allocation
+efficiency.  For exponential and hyperexponential 
+distributions of requests, first-fit outperformed best-fit
+#####################################################
+54. CACM-2530.html score=0.18242602
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+
+CACM March, 1973
+
+Wagner, R. A.
+
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB January 24, 1978  10:26 
+#####################################################
+55. CACM-3129.html score=0.17914577
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Serial Files
+
+A computer system uses several serial files.  The files reside on a 
+direct-access storage device in which storage space is limited.  Records are 
+added to the files either by jobs i
+#####################################################
+56. CACM-1065.html score=0.17904507
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for
+Information Interchange (ASCII) in Serial-by-Bit 
+Data Transmission (Proposed American Standard)
+
+CACM June, 1964
+
+CA640602 JB March 9, 1978  9:47 PM
+
+1065	5	1065
+1065	5	1065
+1065	5	1065
+
+
+
+
+#####################################################
+57. CACM-2586.html score=0.17904507
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers (Errata)
+
+CACM October, 1974
+
+Stockhausen, P. F.
+
+CA741012 JB January 16, 1978  11:05 AM
+
+2586	5	
+#####################################################
+58. CACM-0048.html score=0.17705749
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Indexing Applications
+
+In this communication the use of a shift-register
+code with n = 10 is described for calling 
+64 wireless telemetering stations in a fixed cyclical order.
+ A high degree
+#####################################################
+59. CACM-1362.html score=0.17705749
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Extension in ASCII* (An ASA Tutorial)
+
+The American Standard Code for Information
+Interchange (ASCII) contains a number of control 
+characters associated with the principle of code extension,
+tha
+#####################################################
+60. CACM-2711.html score=0.1756262
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space Model for Automatic Indexing
+
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(search req
+#####################################################
+61. CACM-2078.html score=0.1752548
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Space Planning
+
+Problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects or their arrang
+#####################################################
+62. CACM-1807.html score=0.17389299
+#####################################################
+DOCUMENT HIGHLIGHT:
+Optimization of Expressions in Fortran
+
+A method of optimizing the computation of
+arithmetic and indexing expressions of a Fortran 
+program is presented.  The method is based on a linear
+analysis of t
+#####################################################
+63. CACM-1223.html score=0.16849889
+#####################################################
+DOCUMENT HIGHLIGHT:
+Optimization such as the effective use of index 
+registers, although as important, is not discussed since
+the object code which would be most efficient 
+is highly machine dependent.  The discussion is
+#####################################################
+64. CACM-1235.html score=0.16849351
+#####################################################
+DOCUMENT HIGHLIGHT:
+code additional words.  Finally, the remaining words
+are assigned to one class or another on the basis 
+of the most probable form classes to occur within the already
+identified contexts.  The conditio
+#####################################################
+65. CACM-3083.html score=0.16805974
+#####################################################
+DOCUMENT HIGHLIGHT:
+efficiency of the method is derived and a tradeoff analysis is given.
+
+CACM July, 1978
+
+Halatsis, C.
+Philokyprou, G.
+
+Hash code, scatter storage, open addressing, chaining,
+pseudochaining, collision r
+#####################################################
+66. CACM-1369.html score=0.16523181
+#####################################################
+DOCUMENT HIGHLIGHT:
+for determining
+half rotations in n-dimensional Euclidean 
+space. The method is a variant of the cyclic Jacobi
+procedure and utilizers elementary plane rotations 
+to obtain the half rotation matrix.  
+#####################################################
+67. CACM-1204.html score=0.15765558
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Information Interchange (Proposed American Standard)
+
+CACM September, 1965
+
+CA650902 JB March 6, 1978  7:41 PM
+
+1204	5	1204
+1204	5	1204
+1204	5	1204
+
+
+
+
+#####################################################
+68. CACM-2645.html score=0.15531684
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Estimating Program Efficiency
+
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to estimate is written
+in
+#####################################################
+69. CACM-2892.html score=0.15143192
+#####################################################
+DOCUMENT HIGHLIGHT:
+for various models of system use is studied. 
+ Some measurements of line efficiency for the ARPANET are
+presented and by extrapolation these measurements 
+are used to anticipate overhead in a heavily 
+#####################################################
+70. CACM-1708.html score=0.14958504
+#####################################################
+DOCUMENT HIGHLIGHT:
+Efficiency of a LISP Computation in a Paged Machine
+
+The problem of the use of two levels of storage
+for programs is explored in the context of 
+a LISP system which uses core memory as a buffer for
+a 
+#####################################################
+71. CACM-0093.html score=0.14920424
+#####################################################
+DOCUMENT HIGHLIGHT:
+for enabling a computer
+to translate simple algebraic formulas into a 
+three address computer code.
+
+CACM March, 1959
+
+Wegstein, J. H.
+
+CA590303 JB March 22, 1978  8:03 PM
+
+405	5	93
+54	5	93
+93	5	93
+93
+#####################################################
+72. CACM-2389.html score=0.14902377
+#####################################################
+DOCUMENT HIGHLIGHT:
+for General Space Planning
+
+A computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems.  The language i
+#####################################################
+73. CACM-2863.html score=0.14902377
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space Page Replacement Algorithm
+
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, is described and
+shown to be 
+#####################################################
+74. CACM-1652.html score=0.14447135
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Non-numeric Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer 
+#####################################################
+75. CACM-1676.html score=0.14430216
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the language are discussed
+here.  The language, called LRLTRAN, is a heavily 
+augmented FORTRAN.  The tree-pass compiler makes use
+internally of a postfix Polish notation (pass I 
+to pass II) and 
+#####################################################
+76. CACM-2836.html score=0.14363311
+#####################################################
+DOCUMENT HIGHLIGHT:
+for constructing the optimal derivation tree having 
+the same structure as a given weighted derivation tree.
+ In addition, the correctness of the algorithm 
+is established.  The method may be applied 
+#####################################################
+77. CACM-2524.html score=0.1414585
+#####################################################
+DOCUMENT HIGHLIGHT:
+efficiency of the methods.
+
+CACM April, 1973
+
+Burkhard, W. A.
+Keller, R. M.
+
+matching, file structuring, file searching, heuristics, best match
+
+3.73 3.79 4.9
+
+CA730404 JB January 24, 1978  9:54 AM
+
+1
+#####################################################
+78. CACM-1465.html score=0.14062326
+#####################################################
+DOCUMENT HIGHLIGHT:
+Efficiency dictates that the overall effectiveness
+of a compiler be increased by all means 
+available.  For a compiler to have a substantial useful
+life it needs a clear logical structure, reliability
+#####################################################
+79. CACM-2126.html score=0.13736169
+#####################################################
+DOCUMENT HIGHLIGHT:
+for different categories of users.
+
+CACM January, 1970
+
+Irons, E. T.
+
+programming languages, extensible, compiler, bootstrapping, ambiguity
+
+4.12 4.22
+
+CA700105 JB February 14, 1978  2:02 PM
+
+249	4	21
+#####################################################
+80. CACM-1523.html score=0.13666514
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the CDC 6600
+
+A time sharing system embedded within the
+standard batch processing system for the CDC 6600 
+is described.  The system is general purpose and file-based,
+providing facilities for fil
+#####################################################
+81. CACM-2230.html score=0.13616589
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Treating Geometric Patterns in a Two-dimensional space
+
+In this paper CADEP, a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space, is presented.  Although the
+#####################################################
+82. CACM-1331.html score=0.13049494
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code Structures for Protection and Manipulation of Variable-Length Items
+
+When items are made up of a variable number
+of characters, each containing the same number 
+of bits, certain control informati
+#####################################################
+83. CACM-2498.html score=0.12899466
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space in Partitioned Segmentation
+
+A paged virtual memory system using a finite
+number of page sizes is considered.  Two algorithms 
+for assigning pages to segments are discussed.  Both
+of these algor
+#####################################################
+84. CACM-0794.html score=0.12837844
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Alphameric Information
+
+A method which is economic in terms of space and
+time is proposed for the storage and manipulation 
+of character strings of arbitrary length in a fixed
+word-length computer
+#####################################################
+85. CACM-2344.html score=0.12832725
+#####################################################
+DOCUMENT HIGHLIGHT:
+Optimization of Performance of Time-Sharing Systems by Simulation
+
+A simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to study the v
+#####################################################
+86. CACM-2950.html score=0.12738775
+#####################################################
+DOCUMENT HIGHLIGHT:
+for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  Various classes of scheduling algorithms
+are defined and related to e
+#####################################################
+87. CACM-0124.html score=0.12612447
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the Assignment Problem
+
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+between solution ti
+#####################################################
+88. CACM-1551.html score=0.12612447
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulators.  The
+algorithms generate 
+#####################################################
+89. CACM-1270.html score=0.12610742
+#####################################################
+DOCUMENT HIGHLIGHT:
+for a beginner's program; it furnishes random data
+and checks answers. The other provides a searching 
+test of the reliability and efficiency of an integration
+procedure.  There is a statement of the 
+#####################################################
+90. CACM-1352.html score=0.12610742
+#####################################################
+DOCUMENT HIGHLIGHT:
+for automatic numerical
+integration are Romberg integration and adaptive 
+Simpson integration.  For integrands of the form f(x)g(x,a)
+where a is a parameter, it is shown that 
+Romberg's method is more
+#####################################################
+91. CACM-1429.html score=0.12610742
+#####################################################
+DOCUMENT HIGHLIGHT:
+For The Generation of School Timetables
+
+The application of Kuhn's Hungarian Method
+to the problem of matrix reduction as needed in 
+Gotlieb's method for timetable generation is described.
+ The method
+#####################################################
+92. CACM-2365.html score=0.12610742
+#####################################################
+DOCUMENT HIGHLIGHT:
+efficiency of conventional Fortran programs
+for matrix computations can often be improved 
+by reversing the order of nested loops.  Such modifications
+produce modest savings in many common situations 
+#####################################################
+93. CACM-2816.html score=0.12418647
+#####################################################
+DOCUMENT HIGHLIGHT:
+Space Disk Files
+
+In most database organizations, the cost of accessing
+the database will increase due to structural 
+changes caused by updates and insertions.  By reorganizing
+the database,the access
+#####################################################
+94. CACM-2249.html score=0.12392385
+#####################################################
+DOCUMENT HIGHLIGHT:
+for generating outcomes on multivariate
+normal random vectors with a specified 
+variance-covariance matrix are presented.  A comparison
+is made to determine which method requires the 
+least computer e
+#####################################################
+95. CACM-1030.html score=0.1231686
+#####################################################
+DOCUMENT HIGHLIGHT:
+for the Simulation of Computer Logic
+
+The simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  The evaluation of the Boolean functions which
+characterize 
+#####################################################
+96. CACM-0693.html score=0.12267449
+#####################################################
+DOCUMENT HIGHLIGHT:
+optimization 
+problems involving unimodal functions of several variables.
+ The technique has not been proven to be 
+optimal in the sense that the one-dimensional Fibonaccian
+search is.  However, it is
+#####################################################
+97. CACM-1786.html score=0.121533155
+#####################################################
+DOCUMENT HIGHLIGHT:
+Code for Scatter Storage
+
+Introduced is a hash coding method based on
+fixed-point division rather than multiplication 
+or logical operations.  This new method allows the
+hash table to have almost any 
+#####################################################
+98. CACM-3175.html score=0.121533155
+#####################################################
+DOCUMENT HIGHLIGHT:
+code letter is assigned probabilities of representing plain text
+letters.  These probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  Iterating the updating
+s
+#####################################################
+99. CACM-3064.html score=0.12141173
+#####################################################
+DOCUMENT HIGHLIGHT:
+for Discrete Simulations
+Requiring Large Numbers of Events
+
+The event-manipulation system presented here consists of
+two major parts.  The first part addresses 
+the familiar problem of event schedulin
+#####################################################
+100. CACM-0164.html score=0.12103897
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+*************************************************************************************
+Found 100 hits. for parallel algorithms
+*************************************************************************************
+1. CACM-2973.html score=1.0088185
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Computer
+
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ The best previous algorithm takes 
+#####################################################
+2. CACM-3075.html score=0.9137456
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Sorting Algorithms
+
+A parallel bucket-sort algorithm is presented
+that requires time O(log n) and the use of n 
+processors.  The algorithm makes use of a technique that
+requires more space th
+#####################################################
+3. CACM-2557.html score=0.8322328
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel computers is discussed.  Algorithms
+are presented which properly parse such matrix 
+sequences subject to the constraints of the machine organization.
+
+CACM January, 1973
+
+Muraoka, Y.
+Kuck, D.
+#####################################################
+4. CACM-2266.html score=0.8261164
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a polynomial wit
+#####################################################
+5. CACM-3156.html score=0.8261164
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Computers
+
+We present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time O(log2n).  An
+O(log2n) time bound also can 
+#####################################################
+6. CACM-1601.html score=0.76765776
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Numerical Methods for the Solution of Equations
+
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in questi
+#####################################################
+7. CACM-0950.html score=0.68843037
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Methods for Integrating Ordinary Differential Equations
+
+This paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel comput
+#####################################################
+8. CACM-1468.html score=0.68843037
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processing 
+algorithms was proposed by the author some years ago.
+ Since then much work has been done in applying 
+this to bubble chamber pictures.  The parallel processing
+simulator, origina
+#####################################################
+9. CACM-2433.html score=0.594452
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel algorithms are described.
+
+CACM October, 1973
+
+Millstein, R. E.
+
+array processing, parallelism detection, explicit
+parallelism, array allocation, parallel control 
+structures, ILLIAC IV Fortr
+#####################################################
+10. CACM-2570.html score=0.594452
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing Systems
+
+The problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied.  Cases where t
+#####################################################
+11. CACM-2289.html score=0.5686563
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel 
+processing.  In this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  For example, the adjacency
+matrix of a graph is easily mappe
+#####################################################
+12. CACM-1957.html score=0.5663724
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+13. CACM-2838.html score=0.5339811
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel with list processing operations,
+or on a single processor time-shared with them. 
+ Algorithms for recovering discarded list structures in
+this manner are presented and analyzed to determine 
+
+#####################################################
+14. CACM-2692.html score=0.48292387
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms is described.
+ These algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removing the parts of the polygon which 
+lie outside the volume.
+#####################################################
+15. CACM-0141.html score=0.4730892
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing
+
+CACM October, 1960
+
+Yarbrough, L. D.
+
+CA601007 JB March 20, 1978  8:16 PM
+
+141	5	141
+141	5	141
+141	5	141
+
+
+
+
+#####################################################
+16. CACM-0392.html score=0.4730892
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing
+
+CACM February, 1961
+
+Nekora, M. R.
+
+CA610206 JB March 17, 1978  12:58 AM
+
+392	5	392
+392	5	392
+392	5	392
+
+
+
+
+#####################################################
+17. CACM-1302.html score=0.4730892
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Signaling Speeds for Data Transmission
+(Proposed American Stand ard)
+
+CACM March, 1965
+
+CA650305 JB March 7, 1978  6:08 PM
+
+1302	5	1302
+1302	5	1302
+1302	5	1302
+
+
+
+
+#####################################################
+18. CACM-2114.html score=0.47197703
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms which retrieve records from the generalized file 
+structure are presented.
+
+CACM February, 1970
+
+Hsiao, D.
+
+attribute-value pair, index, keyword, record, record address,
+K-pointer, K-list, 
+#####################################################
+19. CACM-2723.html score=0.47197703
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed. 
+ The simple case of two processors, one performing LISP-like
+list operations and the other performing 
+ga
+#####################################################
+20. CACM-2182.html score=0.41395304
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+21. CACM-2685.html score=0.40970725
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Execution of DO Loops
+
+Methods are developed for the parallel execution
+of different iterations of a DO loop.  Both 
+asynchronous multiprocessor computers and array computers
+are considered. 
+#####################################################
+22. CACM-2714.html score=0.39114887
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processors
+
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for merging A and B with the
+#####################################################
+23. CACM-2896.html score=0.35849383
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Programs Correct
+
+A parallel program, Dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by Owicki.  The fine degree of in terleaving
+in this program m
+#####################################################
+24. CACM-1262.html score=0.35481688
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing
+
+Two statements are suggested which allow a programmer
+writing in a procedure-oriented language 
+to indicate sections of program which are to be executed
+in parallel.  The statemen
+#####################################################
+25. CACM-1367.html score=0.35481688
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+26. CACM-1795.html score=0.35481688
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB February 15, 1978  1:59 PM
+
+1795	5	1795
+17
+#####################################################
+27. CACM-1828.html score=0.35481688
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel 
+activity allowed.  It is assumed that the data base
+can be represented as a graph.  An example of such 
+a data base is a hierarchy of directories for an on-line
+file system.  Methods for syn
+#####################################################
+28. CACM-2700.html score=0.35481688
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Programs
+
+When proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that the statement
+cannot be interleaved with the r
+#####################################################
+29. CACM-2007.html score=0.3525926
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms Policy/Revised August 1970
+
+CACM August, 1970
+
+CA700814 JB February 10, 1978  3:12 PM
+
+2007	5	2007
+2007	5	2007
+2007	5	2007
+
+
+
+
+#####################################################
+30. CACM-0371.html score=0.34904885
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+
+CACM March, 1961
+
+Wilkinson, J. H.
+
+CA610311 JB March 17, 1978  12:35 AM
+
+371	5	371
+371	5	371
+371	5	371
+
+
+
+
+#####################################################
+31. CACM-1158.html score=0.33452457
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing
+
+Constructs for organizing and explicating parallel
+program segments are discussed as extensions 
+to ALGOL 60.  The constructs serve as meta-commands and
+are motivated by equipment
+#####################################################
+32. CACM-2785.html score=0.30728042
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel computer 
+architectures.
+
+CACM March, 1975
+
+Lawrie, D. H.
+Layman, T.
+Baer, D.
+Randal, J. M.
+
+GLYPNIR, Illiac IV, Programming language,
+parallel computation, parallel architecture
+
+4.2 4.21 4.
+#####################################################
+33. CACM-1796.html score=0.29918474
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+34. CACM-2952.html score=0.29568073
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Logical
+and Two's-Complement Addition Instructions
+
+CACM June, 1977
+
+Warren, H. S. Jr.
+
+Boolean functions, two's-complement, sign propagation
+
+4.0 6.32
+
+CA770611 JB December 28, 1977  12:45 P
+#####################################################
+35. CACM-2895.html score=0.292709
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processes is described. 
+ The specifications are constrain ts on the order in which
+events of a computation can occur.  The language 
+is used to write specifications of the readers/writers
+pr
+#####################################################
+36. CACM-1811.html score=0.2897068
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel programming,
+multiprocessor, multiprogramming, tasking, 
+storage interference, electrical network, simulation,
+relaxation, Jacobi, Gauss-Seidel, convergence
+
+3.24 4.9 5.14 5.17 6.21
+
+CA691201
+#####################################################
+37. CACM-0270.html score=0.28207406
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 
+
+CACM October, 1961
+
+Kelley Jr., J. E.
+
+CA611011 JB March 16, 1978  12:50 PM
+
+270	5	270
+270	5	270
+270	5	270
+678	5	270
+270	6	270
+
+
+
+
+#####################################################
+38. CACM-0804.html score=0.28207406
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 134)
+
+CACM July, 1963
+
+Thacher Jr., H. C.
+
+CA630720 JB March 14, 1978  8:19 AM
+
+804	5	804
+804	5	804
+804	5	804
+
+
+
+
+#####################################################
+39. CACM-1342.html score=0.28207406
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 293 [H])
+
+CACM December, 1966
+
+Bayer, G.
+
+CA661207a JB March 2, 1978  2:30 PM
+
+1342	5	1342
+1342	5	1342
+1342	5	1342
+
+
+
+
+#####################################################
+40. CACM-1660.html score=0.28207406
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+41. CACM-1952.html score=0.28207406
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+42. CACM-2325.html score=0.28207406
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+43. CACM-2342.html score=0.2644649
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processes
+
+Various kinds of interference between communicating
+parallel processes have been examined by 
+Dijkstra, Knuth, and others.  Solutions have been given
+for the mutual exclusion probl
+#####################################################
+44. CACM-2851.html score=0.2644649
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Programs
+
+Two formal models for parallel computation
+are presented: an abstract conceptual model and 
+a parallel-program model.  The former model does not
+distinguish between control and data
+#####################################################
+45. CACM-2401.html score=0.25606704
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for each pattern, is presented.  This procedure
+may be used for counting patterns on a matrix, and 
+#####################################################
+46. CACM-2865.html score=0.25606704
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Programs: An Axiomatic Approach
+
+An axiomatic method for proving a number
+of properties of parallel programs is presented.  
+Hoare has given a set of axioms for partial correctness,
+but they 
+#####################################################
+47. CACM-3059.html score=0.25606704
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing WIthin Programs:
+Application to CPU:I/O and I/O:I/O Overlap
+
+Approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are de
+#####################################################
+48. CACM-2080.html score=0.2508934
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processes, process concept,
+process communication, message buffering, process
+hierarchy, process creation, process removal
+
+4.30 4.31 4.32 4.41
+
+CA700404 JB February 13, 1978  3:10 PM
+
+1657	4
+#####################################################
+49. CACM-3073.html score=0.2508934
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel 
+composition of communicating sequential processes is
+a fundamental program structuring method.  When 
+combined with a development of Dijkstra's guarded command,
+these concepts are surprising
+#####################################################
+50. CACM-1374.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 41[F3]; 269[F3])
+
+CACM September, 1966
+
+Bergson, A.
+
+CA660909e JB March 23, 1978  4:29 PM
+
+1374	5	1374
+1374	5	1374
+1374	5	1374
+
+
+
+
+#####################################################
+51. CACM-1851.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 354 [H])
+
+CACM September, 1969
+
+McIlroy, M. D.
+
+spanning trees, trees, graphs
+
+5.32
+
+CA690904 JB February 15, 1978  4:50 PM
+
+1851	5	1851
+1851	5	1851
+1851	5	1851
+
+
+
+
+#####################################################
+52. CACM-1953.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 385 $S13))
+
+CACM December, 1970
+
+Redish, K. A.
+
+ANSI Fortran standard
+
+4.0 4.22
+
+CA701210 JB February 9, 1978  3:04 PM
+
+1953	5	1953
+1953	5	1953
+1953	5	1953
+
+
+
+
+#####################################################
+53. CACM-2226.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms for the
+zero-one linear programming problem.  An error in 
+Gue's paper is corrected.  The utility of one of
+the algorithms as a suboptimizer is indicated.
+
+CACM January, 1971
+
+Proll, L. G.
+
+#####################################################
+54. CACM-2417.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms [G6] (Algorithm A466)
+
+CACM November, 1973
+
+Ehrlich, G.
+
+permutations and combinations
+
+5.39
+
+CA731109 JB January 20, 1978  9:59 AM
+
+2044	4	2417
+2189	4	2417
+2417	4	2417
+2505	4	2417
+2874	4	2
+#####################################################
+55. CACM-2725.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms (Corrigendum)
+
+CACM August, 1975
+
+Vaucher, J. C.
+Duval, P.
+
+CA750810 JB January 6, 1978  3:43 PM
+
+2725	5	2725
+2725	5	2725
+2725	5	2725
+
+
+
+
+#####################################################
+56. CACM-2830.html score=0.2468148
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms (Corrigendum)
+
+CACM September, 1976
+
+Severance, D. G.
+Duhne, R. A.
+
+CA760909 JB January 4, 1978  8:43 AM
+
+2830	5	2830
+2830	5	2830
+2830	5	2830
+
+
+
+
+#####################################################
+57. CACM-1551.html score=0.2442833
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulators.  The
+algorithm
+#####################################################
+58. CACM-1569.html score=0.2365446
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+59. CACM-3044.html score=0.2365446
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel evaluation, suspending cons, Lisp, conditional
+forms, if-then-else, ambiguous function,
+infinite structures
+
+4.2 4.13 4.32 5.24
+
+CA781107 DH January 26, 1979  10:44 AM 
+
+1469	4	3044
+1486	4	30
+#####################################################
+60. CACM-2884.html score=0.23321806
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms encounter
+special cases requiring additional computation 
+every nth permutation when generating the n! permutations
+on n marks.  Four new algorithms have the attribute 
+that special cases o
+#####################################################
+61. CACM-2902.html score=0.21591799
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms when used 
+to service simulation programs as represented by 18
+test cases.  Algorithm performance was measured in
+terms of processing time, memory usage, and external memory
+fragmentation. 
+#####################################################
+62. CACM-2950.html score=0.21591799
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  Various classes of scheduling algorithms
+are defined and related to existing algorithms.  A
+crit
+#####################################################
+63. CACM-3166.html score=0.21591799
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  Two of the algorithms are well-known in the statistical
+and computational literature; the
+#####################################################
+64. CACM-1658.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms for the Zero-One Programming Problem
+
+This paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  Computational experience
+i
+#####################################################
+65. CACM-2025.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 332,344,351,359) 
+
+CACM July, 1970
+
+Sale, A. H. J.
+
+Fortran standards
+
+4.0 4.22
+
+CA700712 JB February 10, 1978  4:26 PM
+
+1613	4	2025
+1646	4	2025
+1900	4	2025
+1955	4	2025
+2025	4	2025
+2154	4	2
+#####################################################
+66. CACM-2222.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+67. CACM-2362.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+68. CACM-2505.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+69. CACM-2863.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, is described and
+shown to be optimum with respect to this criterion. 
+The results of simulating VMIN, Denning's working s
+#####################################################
+70. CACM-2942.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms in Pascal
+
+4.29
+
+CA770710 JB December 28, 1977  8:15 AM
+
+2942	5	2942
+2942	5	2942
+2942	5	2942
+
+
+
+
+#####################################################
+71. CACM-3061.html score=0.21155554
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+72. CACM-2740.html score=0.20907786
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processes is carefully
+justified, and the various semaphore constructions 
+are explained.  The system is proved to be free of "deadly
+embrace" (deadlock).  The design principle 
+is an alterna
+#####################################################
+73. CACM-1008.html score=0.20697652
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel sessions.
+
+CACM September, 1964
+
+Schultz, C. K.
+Brooks, A.
+Schwartz, P.
+
+CA640903 JB March 9, 1978  6:16 PM
+
+1008	5	1008
+1008	5	1008
+1008	5	1008
+2052	5	1008
+1008	6	1008
+1013	6	1008
+1504	6	100
+#####################################################
+74. CACM-1200.html score=0.20697652
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel nomenclature is suggested 
+for their classification.
+
+CACM September, 1965
+
+Reily, E. D.
+Federighi, F. D.
+
+CA650906 JB March 6, 19787:33 PM
+
+1200	5	1200
+1200	5	1200
+1200	5	1200
+1945	5	1200
+82
+#####################################################
+75. CACM-1380.html score=0.20697652
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processing.
+
+CACM September, 1966
+
+Dahl, O. J.
+Nygaard, K.
+
+CA660907 JB March 2, 1978  6:21 PM
+
+1024	4	1380
+1051	4	1380
+1086	4	1380
+1098	4	1380
+1132	4	1380
+1214	4	1380
+1234	4	1380
+1263	4	1380
+#####################################################
+76. CACM-2727.html score=0.20697652
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+77. CACM-1747.html score=0.20485362
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processing, parallel programming, 
+multiprocessing
+
+2.11 4.12 4.13 4.20 4.30 4.42 4.43 5.24 6.20 6.35
+
+CA680509 JB February 23, 1978  9:06 AM
+
+1458	4	1747
+1523	4	1747
+1603	4	1747
+1698	4	1747
+
+#####################################################
+78. CACM-1846.html score=0.20485362
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processes
+in Which Simultaneous Events May Occur
+
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.
+#####################################################
+79. CACM-2175.html score=0.20485362
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel exceeds the number of available processors,
+then execution of some of these subexpressions must 
+be postponed.  A procedure is given which combines this
+requirement with the earlier ordering 
+#####################################################
+80. CACM-2195.html score=0.20485362
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel 
+processing because the operations relative to each
+state can be computed in parallel, and the number
+of stages is equal to the length N of the curves (or
+to log2 N if the approximate method 
+#####################################################
+81. CACM-1873.html score=0.19945648
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+82. CACM-2272.html score=0.19945648
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms is proposed,
+the members of which make fuller use of the memory 
+space and thus yield longer sorted strings.  Extensive
+simulation results are presented, and various 
+implications and furth
+#####################################################
+83. CACM-1924.html score=0.19710524
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms can lead to 
+enormous savings in the number of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time.  Examination of addition,
+multiplication,
+#####################################################
+84. CACM-2146.html score=0.19710524
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms for the polyphase
+sorting procedure are examinedhe optimum 
+algorithm based on minimizing the total number of unit
+strings read is displayed.  The logic of this 
+algorithm is rather complic
+#####################################################
+85. CACM-2273.html score=0.19710524
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms for generating computer programs
+from decision tables are described.  The algorithms 
+allow handling limited entry, extended entry, and mixed
+entry tables.  The algorithms are based on the 
+#####################################################
+86. CACM-2283.html score=0.19710524
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.  The approach
+#####################################################
+87. CACM-2903.html score=0.19710524
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms which solve pattern matching problems.
+ By using recursion in troduction, algorithms 
+which manipulate a stack are first translated into
+recursive algorithms in which no stack operations 
+o
+#####################################################
+88. CACM-3006.html score=0.19710524
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+89. CACM-1392.html score=0.18321247
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms 
+are discussed.  Concrete examples are provided by the
+FORMAC EXPAND and differentiation algorithms, a 
+basic FORMAC utility routine, and an experiment in the
+extraction of the skeletal str
+#####################################################
+90. CACM-2490.html score=0.18321247
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms for Graph Manipulation [H] (Algorithm A447)
+
+Efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  The algorithm 
+#####################################################
+91. CACM-2679.html score=0.18321247
+#####################################################
+DOCUMENT HIGHLIGHT:
+Algorithms 271 and 402 are refinements of algorithm
+64, and all three are discussed in some detail. 
+ The evidence given here demonstrates that qsort (No.
+402) requires many more comparisons than its 
+#####################################################
+92. CACM-2997.html score=0.18321247
+#####################################################
+DOCUMENT HIGHLIGHT:
+algorithms use the "divide
+and conquer" technique and recursively apply 
+a merge procedure for two nonin tersecting convex hulls.
+ Since any convex hull algorithm requires at 
+least O(n log n) operati
+#####################################################
+93. CACM-1341.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+94. CACM-1471.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel 
+processing, protection of separate computations, program
+debugging, and the sharing among users of memory 
+segments and other computing objects, the names of which
+are hierarchically structu
+#####################################################
+95. CACM-1536.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+96. CACM-1554.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel and perspective
+projections of four-dimensional hyperobjects 
+rotating in four-dimensional space.  The observed projections
+and their motions were a direct extension
+of three-dimensional expe
+#####################################################
+97. CACM-1603.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel processing capability.  User programs communicate
+with the monitor through a small set of meta-instruction 
+which consists mostly of machine-language subroutine calls.
+
+CACM May, 1967
+
+Hornbu
+#####################################################
+98. CACM-1960.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+99. CACM-2376.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+parallel programming, multiprogramming, program correctness,
+process communication, process scheduling
+
+4.30 4.32 4.39 4.9
+
+CA720305 JB January 31, 1978  2:44 PM
+
+1781	4	2376
+1828	4	2376
+1854	4	2376
+1
+#####################################################
+100. CACM-2514.html score=0.17740844
+#####################################################
+DOCUMENT HIGHLIGHT:
+
+#####################################################
+*************************************************************************************
+Found 100 hits. for parallel processor in information retrieval
+*************************************************************************************
+1. CACM-2967.html score=0.7082254
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the Context of Computer Graphics
+
+The Associative Processing of Line Drawings (APLD)
+System utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensi
+#####################################################
+2. CACM-0634.html score=0.5461165
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Information Retrieval*
+
+CACM February, 1962
+
+Salton, G.
+
+CA620209 JB March 20, 1978  3:44 PM
+
+1087	4	634
+634	4	634
+931	5	634
+1324	5	634
+329	5	634
+634	5	634
+634	5	634
+634	5	634
+202	6	634
+396	6	634
+6
+#####################################################
+3. CACM-2973.html score=0.5330611
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Computer
+
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ The best previous algorithm takes 
+#####################################################
+4. CACM-1811.html score=0.51177335
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Programming for Parallel-Processors
+
+An affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+exe
+#####################################################
+5. CACM-0891.html score=0.41518122
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval System
+
+The information retrieval problem whose solution
+is presented here was posed by a technical 
+library with limited bubget and personnel.  The solution,
+however, is quite g
+#####################################################
+6. CACM-2530.html score=0.40958735
+#####################################################
+DOCUMENT HIGHLIGHT:
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB January 24, 1978  10:26 AM
+
+1973	4	2530
+1992	4	2530
+2138	4	2530
+2203	4	2530
+2251	4	2530
+2530	4	2530
+2530	4	2530
+2537	4	2530
+2543	
+#####################################################
+7. CACM-2965.html score=0.40958735
+#####################################################
+DOCUMENT HIGHLIGHT:
+in an Online Query System
+
+CACM May, 1977
+
+Hanani, M. Z.
+
+query, Boolean expression, information retrieval, file organization
+
+3.5 3.70 3.74
+
+CA770507 JB December 29, 1977  1:51 AM
+
+2155	4	2965
+2406	4
+#####################################################
+8. CACM-2976.html score=0.40958735
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Database Organizations
+
+CACM April, 1977
+
+Yao, S. B.
+
+database, inverted file organization, database performance
+and measurement, information retrieval, 
+query answering
+
+3.70 3.72 4.33
+
+CA770406 J
+#####################################################
+9. CACM-3168.html score=0.40958735
+#####################################################
+DOCUMENT HIGHLIGHT:
+in an Online Query System."
+
+CACM October, 1979
+
+Laird, P.
+
+Query, Boolean expression, information retrieval, file organization
+
+3.53.70 3.73 3.74
+
+CA791001 DB January 16, 1980  4:50 PM
+
+3168	4	3168
+3
+#####################################################
+10. CACM-2288.html score=0.40007916
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval Property
+
+The consecutive retrieval property is an important
+relation between a query set and record 
+set.  Its existence enables the design of an information
+retrieval system with a minimal
+#####################################################
+11. CACM-1927.html score=0.38666227
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Science in a Ph. Computer Science Program
+
+This report contains recommendations on a sample course
+curriculum in the general area of information 
+organization and information system design
+#####################################################
+12. CACM-2278.html score=0.37855646
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Storage and Retrieval Using AVL Trees
+
+CACM September, 1972
+
+Tan, K. C.
+
+binary trees, search trees, information storage, information retrieval
+
+3.70 3.73 3.74
+
+CA720912 JB January 27, 197
+#####################################################
+13. CACM-2838.html score=0.35851765
+#####################################################
+DOCUMENT HIGHLIGHT:
+processor 
+for the long times that garbage collection normally requires
+by performing garbage collection on a second 
+processor in parallel with list processing operations,
+or on a single processor ti
+#####################################################
+14. CACM-2882.html score=0.35653657
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Data Retrieval Systems
+
+Experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. This paper
+discusses a simulation model
+#####################################################
+15. CACM-1457.html score=0.35578042
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Automatic Information Retrieval
+
+Automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or li
+#####################################################
+16. CACM-2140.html score=0.35020137
+#####################################################
+DOCUMENT HIGHLIGHT:
+In a paper in the November 1970 Communications
+of the ACM, V. Y. Lum introduced a technique 
+of file indexing named combined indices.  This technique
+permitted decreased retrieval time at the cost 
+of
+#####################################################
+17. CACM-1699.html score=0.34822118
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval Through a Teletypewriter
+
+Experiments designed to evaluate the capabilities
+of mechanized information retrieval systems, 
+with emphasis on interactive (man-machine) language and on
+some of t
+#####################################################
+18. CACM-1601.html score=0.34366482
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Numerical Methods for the Solution of Equations
+
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in questi
+#####################################################
+19. CACM-3169.html score=0.34132278
+#####################################################
+DOCUMENT HIGHLIGHT:
+in an Online Query System."
+
+CACM October, 1979
+
+Gudes, E.
+Hoffman, A.
+
+Query, Boolean expression, optimal evaluation, information retrieval
+
+3.50 3.70 3.74
+
+CA791002 DB January 16, 1980  4:52 PM
+
+316
+#####################################################
+20. CACM-2516.html score=0.3396688
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Information Retrieval
+
+A probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  The data storage
+hardware is assumed
+#####################################################
+21. CACM-1935.html score=0.3378923
+#####################################################
+DOCUMENT HIGHLIGHT:
+in a randomly received list of files.
+ The search method described is binary in nature 
+and offers new potential for information retrieval systems.
+
+CACM February, 1969
+
+Arora, S. R.
+Dent, W. T.
+
+bina
+#####################################################
+22. CACM-2519.html score=0.32636416
+#####################################################
+DOCUMENT HIGHLIGHT:
+in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+is examined.  The problem is analyzed in terms of 
+psychological and information-processin
+#####################################################
+23. CACM-3012.html score=0.32482263
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Storage
+and Retrieval System in Medical Research
+
+This paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval system.  A monitor built into 
+#####################################################
+24. CACM-1681.html score=0.31271085
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval Through a Remote Typewriter Console
+
+Easy English is a natural command language
+designed to simplify communication between man and 
+machine through remote typewriter console.  It has been de
+#####################################################
+25. CACM-2114.html score=0.3120005
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval from Files
+
+A generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and record retrieval ar
+#####################################################
+26. CACM-2175.html score=0.30691025
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the Execution of Arithmetic Expressions
+
+An arithmetic expression can often be broken
+down into its component subexpressions.  Depending 
+on the hardware environment in which the expression is
+to b
+#####################################################
+27. CACM-1830.html score=0.30682305
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval Times for a Packed Direct Access Inverted File
+
+CACM October, 1969
+
+Bayes, A. J.
+
+information retrieval, direct access memory, data base, inverted list
+
+3.70 4.41
+
+CA691016 JB February 15, 1
+#####################################################
+28. CACM-2865.html score=0.29916105
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Programs: An Axiomatic Approach
+
+An axiomatic method for proving a number
+of properties of parallel programs is presented.  
+Hoare has given a set of axioms for partial correctness,
+but they 
+#####################################################
+29. CACM-1937.html score=0.29438117
+#####################################################
+DOCUMENT HIGHLIGHT:
+retrieval and display system. 
+ The command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  Data is displayed as tables and
+graphs pro
+#####################################################
+30. CACM-0275.html score=0.28660002
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval System
+
+CACM October, 1961
+
+Sams, B. H.
+
+CA611006 JB March 16, 1978  12:58 PM
+
+275	5	275
+275	5	275
+275	5	275
+
+
+
+
+#####################################################
+31. CACM-0651.html score=0.28660002
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval
+
+CACM January, 1962
+
+Grems, M.
+
+CA620108 JB March 20, 1978  4:36 PM
+
+651	5	651
+651	5	651
+651	5	651
+
+
+
+
+#####################################################
+32. CACM-2070.html score=0.28660002
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval from Files
+
+CACM April, 1970
+
+Hsiao, D.
+Harary, F.
+
+CA700414 JB February 13, 1978  2:37 PM
+
+2070	5	2070
+2070	5	2070
+2070	5	2070
+
+
+
+
+#####################################################
+33. CACM-2990.html score=0.28351814
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval Using Term Accuracy
+
+The performance of information retrieval systems
+can be evaluated in a number of different 
+ways.  Much of the published evaluation work is based
+on measurin
+#####################################################
+34. CACM-1675.html score=0.27305824
+#####################################################
+DOCUMENT HIGHLIGHT:
+In this paper the effect of iterating the improvement
+procedure is examined.  It is shown that 
+applications of the improvement factor beyond the first
+time are ineffectual, and that the factor is 
+bu
+#####################################################
+35. CACM-2645.html score=0.27148092
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the first language, a go-to-less programming 
+language which includes most of the features of Algol
+60.  The second language consists of interactive 
+commands enabling its users to provide addition
+#####################################################
+36. CACM-2723.html score=0.26939452
+#####################################################
+DOCUMENT HIGHLIGHT:
+processor 
+are defined, as well as interprocessor communication
+and interlocks. Complete procedures for garbage 
+collection and for standard list processing primitives
+are presented and thoroughly exp
+#####################################################
+37. CACM-2497.html score=0.26721078
+#####################################################
+DOCUMENT HIGHLIGHT:
+in a multiprocessor 
+system usually require uninterruptable, memory-pause type instructions.
+ An interlock scheme called read-interlock, 
+which does not require memory-pause instructions, has
+been dev
+#####################################################
+38. CACM-2307.html score=0.2662603
+#####################################################
+DOCUMENT HIGHLIGHT:
+in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfille
+#####################################################
+39. CACM-1846.html score=0.26329422
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processes
+in Which Simultaneous Events May Occur
+
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.
+#####################################################
+40. CACM-2455.html score=0.26295358
+#####################################################
+DOCUMENT HIGHLIGHT:
+retrieval time, of amount
+of restructuring expected, and on the worst case 
+of retrieval time.  It is shown that, by permitting
+imbalances of up to five units, the retrieval time 
+is increased a small
+#####################################################
+41. CACM-1725.html score=0.2572509
+#####################################################
+DOCUMENT HIGHLIGHT:
+retrieval of binary
+words from an associative memory, as described
+by Lewin, is based on the use of special readout circuits
+which indicate the digit values present in 
+the individual digit columns of
+#####################################################
+42. CACM-1032.html score=0.25681505
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Information Retrieval Systems
+
+Information storage and retrieval systems are composed
+of three major components: (a) identification 
+of information and tagging it for effective retrieval,
+(b) searc
+#####################################################
+43. CACM-2631.html score=0.25681505
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Direct Access Systems
+
+Using direct access computer files of bibliographic
+information, an attempt is made to overcome 
+one of the problems often associated with information
+retrieval, namely, the 
+#####################################################
+44. CACM-1959.html score=0.2559755
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.  The
+bases for this 
+#####################################################
+45. CACM-1359.html score=0.25542647
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Storage and Retrieval Applications
+
+Manipulation of data strings is the most complex
+processing function in information storage 
+and retrieval applications.  Data string manipulation
+is di
+#####################################################
+46. CACM-2947.html score=0.2553496
+#####################################################
+DOCUMENT HIGHLIGHT:
+in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in teractive bibliographical
+search and retrieval systems, but has several 
+additional featur
+#####################################################
+47. CACM-1236.html score=0.2507608
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval System-An Illustration
+
+A fully automatic document retrieval system
+operating on the IBM 7094 is described.  The system 
+is characterized by the fact that several hundred different
+methods a
+#####################################################
+48. CACM-2711.html score=0.2507608
+#####################################################
+DOCUMENT HIGHLIGHT:
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(search requests), it appears that the best ind
+#####################################################
+49. CACM-1747.html score=0.24959369
+#####################################################
+DOCUMENT HIGHLIGHT:
+in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+CACM May, 1968
+
+Van Horn, E. C.
+
+computer design, computer design criteria, computer
+systems, computer systems design, input equ
+#####################################################
+50. CACM-1613.html score=0.24941622
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processor
+
+Under the assumption that a processor may have
+a multiplicity of arithmetic units, a compiler 
+for such a processor should produce object code to take
+advantage of possible paralle
+#####################################################
+51. CACM-0239.html score=0.24565716
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval Systems
+
+CACM December, 1961
+
+Verhoeff, J.
+Goffman, W.
+Belzer, J.
+
+CA611211 JB March 15, 1978  10:10 PM
+
+239	5	239
+239	5	239
+239	5	239
+
+
+
+
+#####################################################
+52. CACM-0292.html score=0.24565716
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Retrieval Language for Legal Studies
+
+CACM September, 1961
+
+Kehl, W. B.
+Horty, J. F.
+Bacon, C. R. T.
+Mitchell, D. S.
+
+CA610902 JB March 16, 1978  9:51 PM
+
+292	5	292
+292	5	292
+292	5	292
+
+
+
+
+#####################################################
+53. CACM-1831.html score=0.24565716
+#####################################################
+DOCUMENT HIGHLIGHT:
+information retrieval, file searching, tree structures, double chaining
+
+3.70 3.73 3.74
+
+CA691015 JB February 15, 1978  1:31 PM
+
+1831	5	1831
+1831	5	1831
+1831	5	1831
+2257	5	1831
+2360	5	1831
+849	6	1831
+
+#####################################################
+54. CACM-2532.html score=0.24565716
+#####################################################
+DOCUMENT HIGHLIGHT:
+information storage and retrieval
+
+3.74 5.30 5.5
+
+CA730307 JB January 24, 1978  10:30 AM
+
+2532	4	2532
+2631	4	2532
+2746	4	2532
+3001	4	2532
+2139	5	2532
+2532	5	2532
+2532	5	2532
+2532	5	2532
+2631	5	2532
+21
+#####################################################
+55. CACM-2561.html score=0.24531764
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Fact Retrieval Systems
+
+Heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available information.  The procedures make use
+of a similarity stru
+#####################################################
+56. CACM-2032.html score=0.23892593
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the past is explainedesults for the 
+probability distributions of path lengths are derived and illustrated.
+
+CACM July, 1970
+
+Coffman Jr., E. G.
+Eve, J.
+
+Data structures, tree structures, file stru
+#####################################################
+57. CACM-2493.html score=0.23892593
+#####################################################
+DOCUMENT HIGHLIGHT:
+In certain data base organization schemes the
+cost per access may increase due to structural 
+inefficiencies caused by updates.  By reorganizing
+the data base the cost per access may be reduced. 
+ How
+#####################################################
+58. CACM-1960.html score=0.23832633
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the Multiaccess System ESOPE
+
+The main design principles of the multiaccess system ESOPE are described.
+Emphasis is placed on basic ideas underlying the design rather
+than on implementation details
+#####################################################
+59. CACM-2575.html score=0.23623443
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Document Retrieval
+
+CACM November, 1974
+
+Van Rijsbergen, C. J.
+
+document retrieval, best match, clustering, file
+searching, matching, dissimilarity, hierarchy, 
+classification
+
+3.73 3.74 3.79 5.30
+
+#####################################################
+60. CACM-1976.html score=0.23291053
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval with Combined Indexes
+
+In this paper a file organization scheme designed to
+replace the use of the popular secondary index filing scheme
+(or inverted files on secondary key fields) is descri
+#####################################################
+61. CACM-2714.html score=0.2318515
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processors
+
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for merging A and B with the
+#####################################################
+62. CACM-2846.html score=0.23022163
+#####################################################
+DOCUMENT HIGHLIGHT:
+in 
+information retrieval systems.  It has the same underlying
+m-ary tree structure as a trie, where m is 
+a parameter of the trie, but whereas the fields of the
+nodes in a trie have to be large enoug
+#####################################################
+63. CACM-1788.html score=0.22707391
+#####################################################
+DOCUMENT HIGHLIGHT:
+Processor for Programming Languages
+
+Many efforts have been made to develop a better
+way of implementing a higher level programming 
+language than by the construction of a whole new compiler,
+but so f
+#####################################################
+64. CACM-3134.html score=0.22261603
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Storage and Retrieval
+
+This paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication table as a directory
+for th
+#####################################################
+65. CACM-2896.html score=0.22205634
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Proving Parallel Programs Correct
+
+A parallel program, Dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by Owicki.  The fine degree of in terleaving
+in thi
+#####################################################
+66. CACM-2160.html score=0.22039233
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Attribute Based File Organization
+
+A new file structure for attribute based retrieval
+is proposed in this paper.  It allows queries 
+involving arbitrary Boolean functions of the attribute-value
+pai
+#####################################################
+67. CACM-1367.html score=0.21977878
+#####################################################
+DOCUMENT HIGHLIGHT:
+in ASCII* 
+(Proposed American Standard)
+
+CACM September, 1966
+
+CA660912 JB March 2, 1978  4:26 PM
+
+1367	4	1367
+2772	4	1367
+2787	4	1367
+1116	5	1367
+1367	5	1367
+1367	5	1367
+1367	5	1367
+
+
+
+
+#####################################################
+68. CACM-1711.html score=0.21719776
+#####################################################
+DOCUMENT HIGHLIGHT:
+in contracting
+for data processing services, in automating record 
+keeping operations, in deciding whether or not to automate
+certain operations, and in complying with 
+statutes and regulation relatin
+#####################################################
+69. CACM-2795.html score=0.21719776
+#####################################################
+DOCUMENT HIGHLIGHT:
+in conjunction with a natural 
+language analyzer and a combined memory and inference model.
+ In generating sentences from meaning structures, 
+the program employs both the information retrieval and
+de
+#####################################################
+70. CACM-1262.html score=0.21610773
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Processing
+
+Two statements are suggested which allow a programmer
+writing in a procedure-oriented language 
+to indicate sections of program which are to be executed
+in parallel.  The statemen
+#####################################################
+71. CACM-0440.html score=0.20856614
+#####################################################
+DOCUMENT HIGHLIGHT:
+in devising
+reliable systems for searching and updating 
+any large files of documents that must be identified
+primarily on the basis of names and other personal 
+particulars.  The underlying problem i
+#####################################################
+72. CACM-1652.html score=0.20711954
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect t
+#####################################################
+73. CACM-1514.html score=0.20635842
+#####################################################
+DOCUMENT HIGHLIGHT:
+in From Adjust ing Matched Term Retrieval Systems
+
+A file adjustment procedure based on maximizing
+the Bayes expected gain proposed for matched 
+term retrieval systems.  The expected gain and its prob
+#####################################################
+74. CACM-1828.html score=0.20607825
+#####################################################
+DOCUMENT HIGHLIGHT:
+in a Parallel-Accessed Data Base
+
+The following problem is considered:  Given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for synchronization
+whic
+#####################################################
+75. CACM-2141.html score=0.20479368
+#####################################################
+DOCUMENT HIGHLIGHT:
+in four directions. 
+ Relationships are developed between compression alternatives
+to avoid comparing all of them.  The technique 
+has been used to compress data from forest resource maps,
+but is wide
+#####################################################
+76. CACM-2543.html score=0.20479368
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval Time of Scatter Storage Techniques
+
+A new method for entering and retrieving information
+in a hash table is described.  The method 
+is intended to be efficient if most entries are looked
+up 
+#####################################################
+77. CACM-2412.html score=0.2047143
+#####################################################
+DOCUMENT HIGHLIGHT:
+information storage and retrieval,
+scatter storage, searching, symbol table
+
+3.7 3.73 3.74 4.1 4.9
+
+CA731114 JB January 19, 1978  4:40 PM
+
+2412	4	2412
+3053	4	2412
+3083	4	2412
+2412	5	2412
+2412	5	2412
+2
+#####################################################
+78. CACM-2552.html score=0.2047143
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Overflow Items Within a Direct-Access Table
+
+CACM January, 1973
+
+Bays, C.
+
+hash code, open hash, chaining, information retrieval, collision
+
+3.7 4.9
+
+CA730109 JB January 24, 1978  4:07 PM
+
+1271	4	2
+#####################################################
+79. CACM-2781.html score=0.2047143
+#####################################################
+DOCUMENT HIGHLIGHT:
+information retrieval
+
+3.7
+
+CA750307 JB January 9, 1978  4:37 PM
+
+2258	4	2781
+2319	4	2781
+2313	4	2781
+2359	4	2781
+2437	4	2781
+2552	4	2781
+2781	4	2781
+2860	4	2781
+2991	4	2781
+2203	5	2781
+2781	5	2781
+27
+#####################################################
+80. CACM-1456.html score=0.20312296
+#####################################################
+DOCUMENT HIGHLIGHT:
+Retrieval of Aspects of Meaning in Directed Graph Structures
+
+An experimental system that uses LISP to make
+a conceptual dictionary is described.  The dictionary 
+associates with each English word the
+#####################################################
+81. CACM-2623.html score=0.20312296
+#####################################################
+DOCUMENT HIGHLIGHT:
+in most cases, decrease storage size by a factor of
+from two to four.  The techniques involve special 
+handling of leading and trailing blanks, and the encoding
+of other symbols in groups of fixed siz
+#####################################################
+82. CACM-2484.html score=0.202765
+#####################################################
+DOCUMENT HIGHLIGHT:
+Information Organization and Storage
+
+Since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that
+#####################################################
+83. CACM-3135.html score=0.20197439
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Chemical Structures
+
+An algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented.  The search technique
+presented uses the geometric stru
+#####################################################
+84. CACM-2451.html score=0.20110689
+#####################################################
+DOCUMENT HIGHLIGHT:
+information retrieval operation is
+to determine which records in a data collection 
+satisfy a given query expressed in terms of data values.
+ The process of locating the desired responses 
+can be repr
+#####################################################
+85. CACM-2722.html score=0.19743586
+#####################################################
+DOCUMENT HIGHLIGHT:
+information to be retrieved by associative searches. 
+The k-d tree is defined and examples are given. It
+is shown to be quite in its storage requirements. 
+ A significant advantage of this structure i
+#####################################################
+86. CACM-1108.html score=0.19457446
+#####################################################
+DOCUMENT HIGHLIGHT:
+Processor for Tracking the Partially Illuminated Moon*
+
+A study of lunar tracking techniques and fabrication
+of a breadboard to assess the feasibility 
+of the best technique selected was conducted to 
+#####################################################
+87. CACM-2377.html score=0.19457446
+#####################################################
+DOCUMENT HIGHLIGHT:
+In 
+a system which uses segmentation as a memory addressing
+scheme, protection can be achieved in part by 
+associating concentric rings of decreasing access privilege
+with a computation.  This paper d
+#####################################################
+88. CACM-0406.html score=0.19209304
+#####################################################
+DOCUMENT HIGHLIGHT:
+in Constructing a Combined
+ALGOL and Machine-Like Assembly Processor
+
+CACM January, 1961
+
+Evans Jr., A.
+Perlis, A. J.
+Van Zoeren, H.
+
+CA610108 JB March 17, 1978  1:20 AM
+
+1051	5	406
+1102	5	406
+1549	5	
+#####################################################
+89. CACM-1527.html score=0.1893306
+#####################################################
+DOCUMENT HIGHLIGHT:
+retrieval of certain segments of 
+stored information, either explicitly or implicitly represented,
+through questions posed in natural language 
+sentences.  This procedure makes use of a sentence recog
+#####################################################
+90. CACM-2991.html score=0.18778704
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the key set is decreased by
+smoothing the key-to-address transformation, and 
+by adding shadow buckets to an open chaining file.  The
+keys are pre-hashed before the address division, 
+to remove the
+#####################################################
+91. CACM-1680.html score=0.18740638
+#####################################################
+DOCUMENT HIGHLIGHT:
+information retrieval.  It is written in FORTRAN 
+IV (G) for the IBM System/360, Model 40, and the IBM 2250
+display Unit under Operating System/360.  Adept 
+is a cataloged program that controls the st
+#####################################################
+92. CACM-1194.html score=0.18609634
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the provision of information services: 
+(1) easy accessibility to the information files by users
+unfamiliar with file organization, and (2) value 
+of service exceeding user costs.  These principles
+#####################################################
+93. CACM-3075.html score=0.18597947
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Sorting Algorithms
+
+A parallel bucket-sort algorithm is presented
+that requires time O(log n) and the use of n 
+processors.  The algorithm makes use of a technique that
+requires more space th
+#####################################################
+94. CACM-1742.html score=0.18540506
+#####################################################
+DOCUMENT HIGHLIGHT:
+in the data
+channel for a computer display are considered. 
+ To work efficiently, such a channel must have a sufficient number
+of instructions that it is best understood 
+as a small processor rather t
+#####################################################
+95. CACM-1530.html score=0.18354164
+#####################################################
+DOCUMENT HIGHLIGHT:
+processor called ML/I
+is described.  ML/I has been implemented on the 
+PDP-7 and I. Atlas 2 computers and is intended as a
+tool to allow users to extend any existing programming 
+language by incorpora
+#####################################################
+96. CACM-2388.html score=0.18319824
+#####################################################
+DOCUMENT HIGHLIGHT:
+in an 
+average time proportional to log n, where n is the number
+of items in the tree.  The binary trees grown 
+by this algorithm sometimes have some branches longer
+than others; therefore, it is poss
+#####################################################
+97. CACM-2650.html score=0.18319824
+#####################################################
+DOCUMENT HIGHLIGHT:
+in number of edit operations) to a
+given input string a.  B is viewed as a reasonable 
+"correction" for the possibly erroneous string a, where
+a was originally intended to be a string of L. 
+ The calc
+#####################################################
+98. CACM-2746.html score=0.18319824
+#####################################################
+DOCUMENT HIGHLIGHT:
+in a string of text.  The algorithm
+consists of constructing a finite state pattern 
+matching machine from the keywords and then using the
+pattern matching machine to process the text string 
+in a sin
+#####################################################
+99. CACM-2895.html score=0.18130824
+#####################################################
+DOCUMENT HIGHLIGHT:
+in tended behavior
+of communicating parallel processes is described. 
+ The specifications are constrain ts on the order in which
+events of a computation can occur.  The language 
+is used to write spec
+#####################################################
+100. CACM-2266.html score=0.18030451
+#####################################################
+DOCUMENT HIGHLIGHT:
+Parallel Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a polynomial wit
+#####################################################
+*************************************************************************************

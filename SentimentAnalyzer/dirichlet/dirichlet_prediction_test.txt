@@ -1,0 +1,805 @@
+##########################################################################################
+Prediction for given Directory:textcat/test
+##########################################################################################
+File :5578.txt
+Score :[('neg', -3376.6679088749397), ('pos', -3418.4705798915284)]
+File :13527.txt
+Score :[('neg', -11961.820369612624), ('pos', -12047.881701011065)]
+File :29565.txt
+Score :[('neg', -2645.306230758225), ('pos', -2660.358096390234)]
+File :28965.txt
+Score :[('neg', -6109.805402774811), ('pos', -6111.804051459425)]
+File :10220.txt
+Score :[('pos', -2857.164796264646), ('neg', -2880.6110891754756)]
+File :6965.txt
+Score :[('neg', -2089.194983432208), ('pos', -2090.720145759753)]
+File :11247.txt
+Score :[('neg', -4347.265894301025), ('pos', -4351.013941933291)]
+File :29540.txt
+Score :[('pos', -5561.914404919438), ('neg', -5587.225858952398)]
+File :14006.txt
+Score :[('neg', -4706.260585766747), ('pos', -4729.249849570069)]
+File :9973.txt
+Score :[('pos', -3592.8045614842185), ('neg', -3605.723773270222)]
+File :9168.txt
+Score :[('neg', -11666.188680772311), ('pos', -11701.624290871596)]
+File :5562.txt
+Score :[('neg', -10245.0021672448), ('pos', -10280.698757091852)]
+File :10981.txt
+Score :[('pos', -9232.488298140948), ('neg', -9362.137981975557)]
+File :20112.txt
+Score :[('pos', -8515.5756581582), ('neg', -8568.857749254357)]
+File :14989.txt
+Score :[('pos', -6740.3290677963305), ('neg', -6830.816798838399)]
+File :18740.txt
+Score :[('pos', -8713.391383380227), ('neg', -8891.522416705826)]
+File :13521.txt
+Score :[('pos', -8576.315251408198), ('neg', -8667.626198203105)]
+File :9478.txt
+Score :[('neg', -11557.1690056874), ('pos', -12072.13047788084)]
+File :24219.txt
+Score :[('neg', -5538.868231690278), ('pos', -5581.226193654782)]
+File :20426.txt
+Score :[('neg', -9264.795677359654), ('pos', -9324.581732882625)]
+File :11471.txt
+Score :[('neg', -8166.495179053674), ('pos', -8227.866405560242)]
+File :6021.txt
+Score :[('neg', -8894.125878269204), ('pos', -8962.154299380989)]
+File :23776.txt
+Score :[('pos', -8565.473946330203), ('neg', -8744.833191527236)]
+File :5788.txt
+Score :[('pos', -11485.393439153986), ('neg', -11583.853572203947)]
+File :24606.txt
+Score :[('pos', -3890.9604225281), ('neg', -3947.104431491243)]
+File :9342.txt
+Score :[('pos', -5325.472362819733), ('neg', -5384.485481549586)]
+File :12806.txt
+Score :[('neg', -9269.273177413324), ('pos', -9320.136914402114)]
+File :14949.txt
+Score :[('neg', -4270.8286172157395), ('pos', -4371.316207531555)]
+File :10171.txt
+Score :[('neg', -11674.004019935757), ('pos', -11920.585149572475)]
+File :14854.txt
+Score :[('neg', -4481.61087269643), ('pos', -4555.831996868018)]
+File :28742.txt
+Score :[('neg', -3166.527011889966), ('pos', -3243.0036566814906)]
+File :29484.txt
+Score :[('neg', -6322.924865510226), ('pos', -6395.416152498799)]
+File :10926.txt
+Score :[('pos', -5485.756906984859), ('neg', -5517.894012432498)]
+File :13012.txt
+Score :[('neg', -5256.824735691469), ('pos', -5394.561351999094)]
+File :12547.txt
+Score :[('neg', -11926.889738263413), ('pos', -12204.095795816158)]
+File :19532.txt
+Score :[('neg', -8371.066990148365), ('pos', -8481.522311421055)]
+File :10331.txt
+Score :[('pos', -8670.290654947903), ('neg', -8806.612458702573)]
+File :22488.txt
+Score :[('pos', -3348.3598251109647), ('neg', -3404.4905012445447)]
+File :23841.txt
+Score :[('pos', -15029.411897285376), ('neg', -15338.867903701675)]
+File :22192.txt
+Score :[('pos', -6421.17993380294), ('neg', -6574.89820090627)]
+File :12747.txt
+Score :[('pos', -4157.863974986944), ('neg', -4275.856905571303)]
+File :5674.txt
+Score :[('pos', -4874.379519403153), ('neg', -4905.852358742152)]
+File :25240.txt
+Score :[('neg', -6530.298743754479), ('pos', -6785.0837895772465)]
+File :19932.txt
+Score :[('pos', -7026.4617758176255), ('neg', -7132.693321391861)]
+File :5964.txt
+Score :[('neg', -6863.035633159), ('pos', -6919.530059180254)]
+File :27080.txt
+Score :[('neg', -5702.582718804885), ('pos', -5734.962331441444)]
+File :11851.txt
+Score :[('neg', -6720.711646582985), ('pos', -7107.325667071203)]
+File :15824.txt
+Score :[('neg', -8053.433085729035), ('pos', -8286.058075926596)]
+File :17473.txt
+Score :[('neg', -5472.42548592537), ('pos', -5552.844153053607)]
+File :2029.txt
+Score :[('neg', -5975.305131394138), ('pos', -6012.024896847398)]
+File :21930.txt
+Score :[('neg', -6124.270072330535), ('pos', -6318.900790927293)]
+File :10724.txt
+Score :[('pos', -4624.865201436355), ('neg', -4629.45614740647)]
+File :13988.txt
+Score :[('neg', -8994.194698213205), ('pos', -9100.410707265904)]
+File :15467.txt
+Score :[('pos', -6205.420265250873), ('neg', -6397.3968072219495)]
+File :18981.txt
+Score :[('neg', -2952.859817907668), ('pos', -2955.0510996926673)]
+File :29127.txt
+Score :[('neg', -4095.0545440521632), ('pos', -4127.8399015487885)]
+File :20488.txt
+Score :[('pos', -10693.59863493345), ('neg', -10756.22005273201)]
+File :20929.txt
+Score :[('neg', -8199.26296924082), ('pos', -8234.95238205968)]
+File :11609.txt
+Score :[('pos', -7670.781242531377), ('neg', -7806.830810909107)]
+File :23547.txt
+Score :[('neg', -4983.441761201151), ('pos', -5179.541054571388)]
+File :22941.txt
+Score :[('pos', -5041.033161659588), ('neg', -5127.635117271238)]
+File :18645.txt
+Score :[('pos', -6090.701022328563), ('neg', -6106.976726598549)]
+File :12447.txt
+Score :[('neg', -9954.998217396836), ('pos', -9998.667979182297)]
+File :20260.txt
+Score :[('neg', -6135.601636564727), ('pos', -6144.974063235255)]
+File :13401.txt
+Score :[('neg', -5928.836237679051), ('pos', -6043.642862326094)]
+File :29715.txt
+Score :[('neg', -6545.159577231813), ('pos', -6579.564071018503)]
+File :12332.txt
+Score :[('neg', -8163.179912505032), ('pos', -8270.55091415775)]
+File :3541.txt
+Score :[('pos', -7314.658665856605), ('neg', -7382.419753596943)]
+File :12162.txt
+Score :[('pos', -6387.045380112332), ('neg', -6560.913061196721)]
+File :17059.txt
+Score :[('pos', -5006.256987456022), ('neg', -5077.102975194511)]
+File :11591.txt
+Score :[('pos', -10307.612084833843), ('neg', -10572.15013663811)]
+File :29114.txt
+Score :[('pos', -8341.273781885691), ('neg', -8481.793913180425)]
+File :2856.txt
+Score :[('neg', -4267.373752608431), ('pos', -4325.681317706265)]
+File :15954.txt
+Score :[('pos', -15546.750883112989), ('neg', -15927.481898789652)]
+File :9813.txt
+Score :[('neg', -5586.10529902511), ('pos', -5656.433833980667)]
+File :17082.txt
+Score :[('pos', -5934.799347610026), ('neg', -5944.692943822346)]
+File :7078.txt
+Score :[('neg', -4842.597386051797), ('pos', -4923.353432050123)]
+File :11951.txt
+Score :[('neg', -7763.510253460673), ('pos', -8009.594706523556)]
+File :13250.txt
+Score :[('pos', -5744.634095677296), ('neg', -5794.013176029101)]
+File :14111.txt
+Score :[('pos', -5978.887535048838), ('neg', -6070.92649655473)]
+File :18935.txt
+Score :[('neg', -1718.5196249973392), ('pos', -1745.472700511368)]
+File :9811.txt
+Score :[('pos', -5836.773034250244), ('neg', -5854.170053534731)]
+File :11316.txt
+Score :[('neg', -3035.9548488958726), ('pos', -3049.315101497686)]
+File :14760.txt
+Score :[('neg', -2412.6798946242316), ('pos', -2416.251385516868)]
+File :10066.txt
+Score :[('pos', -11677.323608142993), ('neg', -11799.696876640455)]
+File :10073.txt
+Score :[('neg', -16290.675167423553), ('pos', -16429.375481736777)]
+File :10874.txt
+Score :[('pos', -6106.102338766239), ('neg', -6254.243963886059)]
+File :18509.txt
+Score :[('neg', -6676.841376819797), ('pos', -6679.365887305824)]
+File :5626.txt
+Score :[('pos', -6011.077413590905), ('neg', -6023.892194375039)]
+File :18658.txt
+Score :[('pos', -18321.40412003591), ('neg', -19025.828306568408)]
+File :26837.txt
+Score :[('pos', -7422.033815093345), ('neg', -7463.279760739236)]
+File :6836.txt
+Score :[('pos', -8247.676062038825), ('neg', -8406.730574453139)]
+File :10267.txt
+Score :[('pos', -2398.336627474246), ('neg', -2446.5503396882013)]
+File :9816.txt
+Score :[('neg', -4894.565926242866), ('pos', -4937.217787037277)]
+File :24953.txt
+Score :[('neg', -13765.18815859199), ('pos', -13820.616334128797)]
+File :15092.txt
+Score :[('neg', -5472.290143704841), ('pos', -5513.875396478448)]
+File :22928.txt
+Score :[('pos', -7723.52859681809), ('neg', -7889.15702229447)]
+File :29423.txt
+Score :[('neg', -3048.326334993626), ('pos', -3275.8982728494157)]
+File :5682.txt
+Score :[('pos', -4960.724475072662), ('neg', -5051.361924834192)]
+File :10706.txt
+Score :[('neg', -5496.845220758158), ('pos', -5559.657565807112)]
+File :15691.txt
+Score :[('neg', -5688.5350187027625), ('pos', -5732.567438524606)]
+File :13020.txt
+Score :[('neg', -5412.86451686027), ('pos', -5447.164892799063)]
+File :4938.txt
+Score :[('pos', -4219.173607246541), ('neg', -4309.2125112605445)]
+File :29252.txt
+Score :[('pos', -8387.152639927299), ('neg', -8446.914864177379)]
+File :22209.txt
+Score :[('neg', -4220.9727054365985), ('pos', -4349.637048336984)]
+File :26688.txt
+Score :[('neg', -6815.137131487837), ('pos', -6910.086568148695)]
+File :5152.txt
+Score :[('neg', -3932.441763221488), ('pos', -3933.459467157568)]
+File :16009.txt
+Score :[('pos', -16157.710981616481), ('neg', -16233.309004274908)]
+File :17779.txt
+Score :[('pos', -9439.641455114914), ('neg', -9440.304651634475)]
+File :24353.txt
+Score :[('pos', -4480.838576437399), ('neg', -4523.62184239392)]
+File :24977.txt
+Score :[('neg', -8148.297549907744), ('pos', -8183.551186505738)]
+File :12160.txt
+Score :[('pos', -9463.86305099791), ('neg', -9528.17867348828)]
+File :17563.txt
+Score :[('pos', -3166.990500703863), ('neg', -3238.0869366521615)]
+File :25663.txt
+Score :[('neg', -2033.369667010097), ('pos', -2036.653346332987)]
+File :12443.txt
+Score :[('neg', -2931.719962871928), ('pos', -2982.6518628426134)]
+File :18783.txt
+Score :[('pos', -3565.6002614034237), ('neg', -3592.5741049229805)]
+File :16679.txt
+Score :[('neg', -8387.392363184073), ('pos', -8387.696370757993)]
+File :16908.txt
+Score :[('pos', -9571.070714332687), ('neg', -9700.732775117109)]
+File :25413.txt
+Score :[('neg', -8129.658973623129), ('pos', -8329.383735144742)]
+File :11920.txt
+Score :[('neg', -13310.399953232713), ('pos', -13326.924231241785)]
+File :10681.txt
+Score :[('pos', -7476.711451296049), ('neg', -7627.187362197464)]
+File :3193.txt
+Score :[('pos', -6333.454802699304), ('neg', -6371.715208900674)]
+File :5794.txt
+Score :[('neg', -5690.33069157008), ('pos', -5713.589947302587)]
+File :11017.txt
+Score :[('neg', -2608.315424184337), ('pos', -2616.9970979941622)]
+File :26154.txt
+Score :[('neg', -4106.843573194543), ('pos', -4144.302704064344)]
+File :12270.txt
+Score :[('neg', -5447.25930744103), ('pos', -5509.292048200587)]
+File :14636.txt
+Score :[('neg', -5140.7853902157885), ('pos', -5168.7966110143)]
+File :16380.txt
+Score :[('pos', -5449.48165596971), ('neg', -5582.457659166101)]
+File :11934.txt
+Score :[('neg', -2867.1974872725805), ('pos', -2869.531061465205)]
+File :24303.txt
+Score :[('neg', -4142.7380441622045), ('pos', -4143.054803192241)]
+File :18155.txt
+Score :[('neg', -4574.960299207904), ('pos', -4644.864846630115)]
+File :10185.txt
+Score :[('neg', -3145.7702849374846), ('pos', -3155.7313290709317)]
+File :2693.txt
+Score :[('neg', -5041.650942693246), ('pos', -5155.670769795081)]
+File :7208.txt
+Score :[('pos', -7642.907023961176), ('neg', -7653.183585098999)]
+File :1841.txt
+Score :[('neg', -2860.31963506771), ('pos', -2888.642970993959)]
+File :9960.txt
+Score :[('pos', -5736.669738390568), ('neg', -5774.117539505853)]
+File :12767.txt
+Score :[('pos', -5571.60284163071), ('neg', -5650.386969156612)]
+File :11491.txt
+Score :[('neg', -3360.1967457034575), ('pos', -3375.6141460905324)]
+File :25870.txt
+Score :[('neg', -5924.381923664435), ('pos', -6143.070040544592)]
+File :12350.txt
+Score :[('pos', -5366.498116695724), ('neg', -5366.543180800927)]
+File :25001.txt
+Score :[('pos', -9132.482919066448), ('neg', -9223.02678139854)]
+File :14611.txt
+Score :[('neg', -4089.7912399094826), ('pos', -4102.194592896666)]
+File :28832.txt
+Score :[('pos', -6525.700763841421), ('neg', -6600.73640072323)]
+File :26375.txt
+Score :[('pos', -6770.488439639738), ('neg', -6771.619543288426)]
+File :29007.txt
+Score :[('neg', -9249.743177541), ('pos', -9272.92984672898)]
+File :17034.txt
+Score :[('neg', -4693.805373550024), ('pos', -4792.888159193588)]
+File :11962.txt
+Score :[('neg', -14388.522213524879), ('pos', -14591.683336387583)]
+File :26417.txt
+Score :[('pos', -5540.691775306292), ('neg', -5564.874723027016)]
+File :9459.txt
+Score :[('neg', -4669.530856935622), ('pos', -4734.473572250571)]
+File :17822.txt
+Score :[('pos', -7335.170292460418), ('neg', -7509.520607367206)]
+File :21565.txt
+Score :[('neg', -8130.579176867901), ('pos', -8246.028853807686)]
+File :11051.txt
+Score :[('pos', -4294.506882693074), ('neg', -4564.427333542992)]
+File :18921.txt
+Score :[('pos', -8370.675319227816), ('neg', -8398.960939442597)]
+File :24218.txt
+Score :[('pos', -6536.666979301162), ('neg', -6609.775777761475)]
+File :21821.txt
+Score :[('pos', -7395.548210701028), ('neg', -7467.020393056013)]
+File :4776.txt
+Score :[('neg', -4752.153013944641), ('pos', -4840.392334432738)]
+File :19973.txt
+Score :[('pos', -7202.608122115631), ('neg', -7264.050318569544)]
+File :26071.txt
+Score :[('neg', -5437.155016345468), ('pos', -5445.780740852567)]
+File :12256.txt
+Score :[('pos', -10991.0620851824), ('neg', -11190.302684264358)]
+File :18471.txt
+Score :[('pos', -15257.395837936143), ('neg', -15458.84711551821)]
+File :5046.txt
+Score :[('pos', -10920.968243592833), ('neg', -11119.744653016596)]
+File :17705.txt
+Score :[('pos', -6072.8987952916295), ('neg', -6149.174889824057)]
+File :8841.txt
+Score :[('neg', -4568.87674882289), ('pos', -4625.009680231127)]
+File :11816.txt
+Score :[('neg', -8347.154939891543), ('pos', -8527.084045827134)]
+File :23113.txt
+Score :[('neg', -13980.041987604469), ('pos', -14402.03757960626)]
+File :28877.txt
+Score :[('neg', -6120.543448204927), ('pos', -6149.485818247356)]
+File :17297.txt
+Score :[('neg', -4175.777120817778), ('pos', -4231.887032099679)]
+File :9059.txt
+Score :[('neg', -4229.714384744067), ('pos', -4236.489823463922)]
+File :9803.txt
+Score :[('pos', -5292.138426812605), ('neg', -5361.44433349331)]
+File :13106.txt
+Score :[('pos', -10018.655467387292), ('neg', -10472.428250003322)]
+File :10246.txt
+Score :[('pos', -5989.075791004011), ('neg', -6240.369801242189)]
+File :10601.txt
+Score :[('neg', -6099.327904338867), ('pos', -6147.205541397725)]
+File :13475.txt
+Score :[('pos', -9663.411983739496), ('neg', -9810.955852745295)]
+File :10718.txt
+Score :[('pos', -7104.966664877988), ('neg', -7124.451008291897)]
+File :28671.txt
+Score :[('neg', -7008.059991653318), ('pos', -7047.383017805501)]
+File :29737.txt
+Score :[('pos', -6733.943534681202), ('neg', -6808.154292125394)]
+File :7394.txt
+Score :[('neg', -7119.962143132349), ('pos', -7277.779352939946)]
+File :29397.txt
+Score :[('neg', -5276.456524803661), ('pos', -5345.083379748717)]
+File :13229.txt
+Score :[('neg', -8413.153334490476), ('pos', -8526.756034528675)]
+File :11592.txt
+Score :[('pos', -3209.269687671167), ('neg', -3264.7051103444273)]
+File :13478.txt
+Score :[('neg', -13162.595057023353), ('pos', -13277.869997308737)]
+File :21103.txt
+Score :[('pos', -6187.246754621215), ('neg', -6300.902992740463)]
+File :16218.txt
+Score :[('neg', -5541.350981417478), ('pos', -5675.76825360672)]
+File :10800.txt
+Score :[('neg', -4871.564474800025), ('pos', -4950.47762348177)]
+File :6895.txt
+Score :[('pos', -7826.638353568565), ('neg', -7838.627564267934)]
+File :13217.txt
+Score :[('neg', -6687.97763317635), ('pos', -6802.6579076904645)]
+File :6359.txt
+Score :[('pos', -6359.861125552379), ('neg', -6396.4253098032295)]
+File :18628.txt
+Score :[('pos', -4767.688585240245), ('neg', -4779.094656004834)]
+File :19027.txt
+Score :[('pos', -4817.7996291065765), ('neg', -4863.066741536826)]
+File :11790.txt
+Score :[('neg', -7635.718941424162), ('pos', -7800.2989281121845)]
+File :18450.txt
+Score :[('pos', -6874.436215642971), ('neg', -7049.4968793554035)]
+File :21695.txt
+Score :[('neg', -8298.677911800536), ('pos', -8577.463300176185)]
+File :10953.txt
+Score :[('pos', -4700.029824171378), ('neg', -4722.0608522017865)]
+File :8737.txt
+Score :[('pos', -4845.183876956398), ('neg', -4883.638973758689)]
+File :8969.txt
+Score :[('pos', -7238.258648961839), ('neg', -7438.035713313319)]
+File :10583.txt
+Score :[('pos', -5055.280134392821), ('neg', -5076.746345578743)]
+File :20084.txt
+Score :[('neg', -7007.504092290442), ('pos', -7171.748567182842)]
+File :20168.txt
+Score :[('neg', -8100.42261187413), ('pos', -8177.651877832881)]
+File :15042.txt
+Score :[('neg', -6077.329710821057), ('pos', -6107.812999814705)]
+File :29622.txt
+Score :[('pos', -5320.036765306828), ('neg', -5505.24902582582)]
+Document No:5578.txt
+Predicted Values:[('neg', -3376.6679088749397), ('pos', -3418.4705798915284)]
+Document No:13527.txt
+Predicted Values:[('neg', -11961.820369612624), ('pos', -12047.881701011065)]
+Document No:29565.txt
+Predicted Values:[('neg', -2645.306230758225), ('pos', -2660.358096390234)]
+Document No:28965.txt
+Predicted Values:[('neg', -6109.805402774811), ('pos', -6111.804051459425)]
+Document No:10220.txt
+Predicted Values:[('pos', -2857.164796264646), ('neg', -2880.6110891754756)]
+Document No:6965.txt
+Predicted Values:[('neg', -2089.194983432208), ('pos', -2090.720145759753)]
+Document No:11247.txt
+Predicted Values:[('neg', -4347.265894301025), ('pos', -4351.013941933291)]
+Document No:29540.txt
+Predicted Values:[('pos', -5561.914404919438), ('neg', -5587.225858952398)]
+Document No:14006.txt
+Predicted Values:[('neg', -4706.260585766747), ('pos', -4729.249849570069)]
+Document No:9973.txt
+Predicted Values:[('pos', -3592.8045614842185), ('neg', -3605.723773270222)]
+Document No:9168.txt
+Predicted Values:[('neg', -11666.188680772311), ('pos', -11701.624290871596)]
+Document No:5562.txt
+Predicted Values:[('neg', -10245.0021672448), ('pos', -10280.698757091852)]
+Document No:10981.txt
+Predicted Values:[('pos', -9232.488298140948), ('neg', -9362.137981975557)]
+Document No:20112.txt
+Predicted Values:[('pos', -8515.5756581582), ('neg', -8568.857749254357)]
+Document No:14989.txt
+Predicted Values:[('pos', -6740.3290677963305), ('neg', -6830.816798838399)]
+Document No:18740.txt
+Predicted Values:[('pos', -8713.391383380227), ('neg', -8891.522416705826)]
+Document No:13521.txt
+Predicted Values:[('pos', -8576.315251408198), ('neg', -8667.626198203105)]
+Document No:9478.txt
+Predicted Values:[('neg', -11557.1690056874), ('pos', -12072.13047788084)]
+Document No:24219.txt
+Predicted Values:[('neg', -5538.868231690278), ('pos', -5581.226193654782)]
+Document No:20426.txt
+Predicted Values:[('neg', -9264.795677359654), ('pos', -9324.581732882625)]
+Document No:11471.txt
+Predicted Values:[('neg', -8166.495179053674), ('pos', -8227.866405560242)]
+Document No:6021.txt
+Predicted Values:[('neg', -8894.125878269204), ('pos', -8962.154299380989)]
+Document No:23776.txt
+Predicted Values:[('pos', -8565.473946330203), ('neg', -8744.833191527236)]
+Document No:5788.txt
+Predicted Values:[('pos', -11485.393439153986), ('neg', -11583.853572203947)]
+Document No:24606.txt
+Predicted Values:[('pos', -3890.9604225281), ('neg', -3947.104431491243)]
+Document No:9342.txt
+Predicted Values:[('pos', -5325.472362819733), ('neg', -5384.485481549586)]
+Document No:12806.txt
+Predicted Values:[('neg', -9269.273177413324), ('pos', -9320.136914402114)]
+Document No:14949.txt
+Predicted Values:[('neg', -4270.8286172157395), ('pos', -4371.316207531555)]
+Document No:10171.txt
+Predicted Values:[('neg', -11674.004019935757), ('pos', -11920.585149572475)]
+Document No:14854.txt
+Predicted Values:[('neg', -4481.61087269643), ('pos', -4555.831996868018)]
+Document No:28742.txt
+Predicted Values:[('neg', -3166.527011889966), ('pos', -3243.0036566814906)]
+Document No:29484.txt
+Predicted Values:[('neg', -6322.924865510226), ('pos', -6395.416152498799)]
+Document No:10926.txt
+Predicted Values:[('pos', -5485.756906984859), ('neg', -5517.894012432498)]
+Document No:13012.txt
+Predicted Values:[('neg', -5256.824735691469), ('pos', -5394.561351999094)]
+Document No:12547.txt
+Predicted Values:[('neg', -11926.889738263413), ('pos', -12204.095795816158)]
+Document No:19532.txt
+Predicted Values:[('neg', -8371.066990148365), ('pos', -8481.522311421055)]
+Document No:10331.txt
+Predicted Values:[('pos', -8670.290654947903), ('neg', -8806.612458702573)]
+Document No:22488.txt
+Predicted Values:[('pos', -3348.3598251109647), ('neg', -3404.4905012445447)]
+Document No:23841.txt
+Predicted Values:[('pos', -15029.411897285376), ('neg', -15338.867903701675)]
+Document No:22192.txt
+Predicted Values:[('pos', -6421.17993380294), ('neg', -6574.89820090627)]
+Document No:12747.txt
+Predicted Values:[('pos', -4157.863974986944), ('neg', -4275.856905571303)]
+Document No:5674.txt
+Predicted Values:[('pos', -4874.379519403153), ('neg', -4905.852358742152)]
+Document No:25240.txt
+Predicted Values:[('neg', -6530.298743754479), ('pos', -6785.0837895772465)]
+Document No:19932.txt
+Predicted Values:[('pos', -7026.4617758176255), ('neg', -7132.693321391861)]
+Document No:5964.txt
+Predicted Values:[('neg', -6863.035633159), ('pos', -6919.530059180254)]
+Document No:27080.txt
+Predicted Values:[('neg', -5702.582718804885), ('pos', -5734.962331441444)]
+Document No:11851.txt
+Predicted Values:[('neg', -6720.711646582985), ('pos', -7107.325667071203)]
+Document No:15824.txt
+Predicted Values:[('neg', -8053.433085729035), ('pos', -8286.058075926596)]
+Document No:17473.txt
+Predicted Values:[('neg', -5472.42548592537), ('pos', -5552.844153053607)]
+Document No:2029.txt
+Predicted Values:[('neg', -5975.305131394138), ('pos', -6012.024896847398)]
+Document No:21930.txt
+Predicted Values:[('neg', -6124.270072330535), ('pos', -6318.900790927293)]
+Document No:10724.txt
+Predicted Values:[('pos', -4624.865201436355), ('neg', -4629.45614740647)]
+Document No:13988.txt
+Predicted Values:[('neg', -8994.194698213205), ('pos', -9100.410707265904)]
+Document No:15467.txt
+Predicted Values:[('pos', -6205.420265250873), ('neg', -6397.3968072219495)]
+Document No:18981.txt
+Predicted Values:[('neg', -2952.859817907668), ('pos', -2955.0510996926673)]
+Document No:29127.txt
+Predicted Values:[('neg', -4095.0545440521632), ('pos', -4127.8399015487885)]
+Document No:20488.txt
+Predicted Values:[('pos', -10693.59863493345), ('neg', -10756.22005273201)]
+Document No:20929.txt
+Predicted Values:[('neg', -8199.26296924082), ('pos', -8234.95238205968)]
+Document No:11609.txt
+Predicted Values:[('pos', -7670.781242531377), ('neg', -7806.830810909107)]
+Document No:23547.txt
+Predicted Values:[('neg', -4983.441761201151), ('pos', -5179.541054571388)]
+Document No:22941.txt
+Predicted Values:[('pos', -5041.033161659588), ('neg', -5127.635117271238)]
+Document No:18645.txt
+Predicted Values:[('pos', -6090.701022328563), ('neg', -6106.976726598549)]
+Document No:12447.txt
+Predicted Values:[('neg', -9954.998217396836), ('pos', -9998.667979182297)]
+Document No:20260.txt
+Predicted Values:[('neg', -6135.601636564727), ('pos', -6144.974063235255)]
+Document No:13401.txt
+Predicted Values:[('neg', -5928.836237679051), ('pos', -6043.642862326094)]
+Document No:29715.txt
+Predicted Values:[('neg', -6545.159577231813), ('pos', -6579.564071018503)]
+Document No:12332.txt
+Predicted Values:[('neg', -8163.179912505032), ('pos', -8270.55091415775)]
+Document No:3541.txt
+Predicted Values:[('pos', -7314.658665856605), ('neg', -7382.419753596943)]
+Document No:12162.txt
+Predicted Values:[('pos', -6387.045380112332), ('neg', -6560.913061196721)]
+Document No:17059.txt
+Predicted Values:[('pos', -5006.256987456022), ('neg', -5077.102975194511)]
+Document No:11591.txt
+Predicted Values:[('pos', -10307.612084833843), ('neg', -10572.15013663811)]
+Document No:29114.txt
+Predicted Values:[('pos', -8341.273781885691), ('neg', -8481.793913180425)]
+Document No:2856.txt
+Predicted Values:[('neg', -4267.373752608431), ('pos', -4325.681317706265)]
+Document No:15954.txt
+Predicted Values:[('pos', -15546.750883112989), ('neg', -15927.481898789652)]
+Document No:9813.txt
+Predicted Values:[('neg', -5586.10529902511), ('pos', -5656.433833980667)]
+Document No:17082.txt
+Predicted Values:[('pos', -5934.799347610026), ('neg', -5944.692943822346)]
+Document No:7078.txt
+Predicted Values:[('neg', -4842.597386051797), ('pos', -4923.353432050123)]
+Document No:11951.txt
+Predicted Values:[('neg', -7763.510253460673), ('pos', -8009.594706523556)]
+Document No:13250.txt
+Predicted Values:[('pos', -5744.634095677296), ('neg', -5794.013176029101)]
+Document No:14111.txt
+Predicted Values:[('pos', -5978.887535048838), ('neg', -6070.92649655473)]
+Document No:18935.txt
+Predicted Values:[('neg', -1718.5196249973392), ('pos', -1745.472700511368)]
+Document No:9811.txt
+Predicted Values:[('pos', -5836.773034250244), ('neg', -5854.170053534731)]
+Document No:11316.txt
+Predicted Values:[('neg', -3035.9548488958726), ('pos', -3049.315101497686)]
+Document No:14760.txt
+Predicted Values:[('neg', -2412.6798946242316), ('pos', -2416.251385516868)]
+Document No:10066.txt
+Predicted Values:[('pos', -11677.323608142993), ('neg', -11799.696876640455)]
+Document No:10073.txt
+Predicted Values:[('neg', -16290.675167423553), ('pos', -16429.375481736777)]
+Document No:10874.txt
+Predicted Values:[('pos', -6106.102338766239), ('neg', -6254.243963886059)]
+Document No:18509.txt
+Predicted Values:[('neg', -6676.841376819797), ('pos', -6679.365887305824)]
+Document No:5626.txt
+Predicted Values:[('pos', -6011.077413590905), ('neg', -6023.892194375039)]
+Document No:18658.txt
+Predicted Values:[('pos', -18321.40412003591), ('neg', -19025.828306568408)]
+Document No:26837.txt
+Predicted Values:[('pos', -7422.033815093345), ('neg', -7463.279760739236)]
+Document No:6836.txt
+Predicted Values:[('pos', -8247.676062038825), ('neg', -8406.730574453139)]
+Document No:10267.txt
+Predicted Values:[('pos', -2398.336627474246), ('neg', -2446.5503396882013)]
+Document No:9816.txt
+Predicted Values:[('neg', -4894.565926242866), ('pos', -4937.217787037277)]
+Document No:24953.txt
+Predicted Values:[('neg', -13765.18815859199), ('pos', -13820.616334128797)]
+Document No:15092.txt
+Predicted Values:[('neg', -5472.290143704841), ('pos', -5513.875396478448)]
+Document No:22928.txt
+Predicted Values:[('pos', -7723.52859681809), ('neg', -7889.15702229447)]
+Document No:29423.txt
+Predicted Values:[('neg', -3048.326334993626), ('pos', -3275.8982728494157)]
+Document No:5682.txt
+Predicted Values:[('pos', -4960.724475072662), ('neg', -5051.361924834192)]
+Document No:10706.txt
+Predicted Values:[('neg', -5496.845220758158), ('pos', -5559.657565807112)]
+Document No:15691.txt
+Predicted Values:[('neg', -5688.5350187027625), ('pos', -5732.567438524606)]
+Document No:13020.txt
+Predicted Values:[('neg', -5412.86451686027), ('pos', -5447.164892799063)]
+Document No:4938.txt
+Predicted Values:[('pos', -4219.173607246541), ('neg', -4309.2125112605445)]
+Document No:29252.txt
+Predicted Values:[('pos', -8387.152639927299), ('neg', -8446.914864177379)]
+Document No:22209.txt
+Predicted Values:[('neg', -4220.9727054365985), ('pos', -4349.637048336984)]
+Document No:26688.txt
+Predicted Values:[('neg', -6815.137131487837), ('pos', -6910.086568148695)]
+Document No:5152.txt
+Predicted Values:[('neg', -3932.441763221488), ('pos', -3933.459467157568)]
+Document No:16009.txt
+Predicted Values:[('pos', -16157.710981616481), ('neg', -16233.309004274908)]
+Document No:17779.txt
+Predicted Values:[('pos', -9439.641455114914), ('neg', -9440.304651634475)]
+Document No:24353.txt
+Predicted Values:[('pos', -4480.838576437399), ('neg', -4523.62184239392)]
+Document No:24977.txt
+Predicted Values:[('neg', -8148.297549907744), ('pos', -8183.551186505738)]
+Document No:12160.txt
+Predicted Values:[('pos', -9463.86305099791), ('neg', -9528.17867348828)]
+Document No:17563.txt
+Predicted Values:[('pos', -3166.990500703863), ('neg', -3238.0869366521615)]
+Document No:25663.txt
+Predicted Values:[('neg', -2033.369667010097), ('pos', -2036.653346332987)]
+Document No:12443.txt
+Predicted Values:[('neg', -2931.719962871928), ('pos', -2982.6518628426134)]
+Document No:18783.txt
+Predicted Values:[('pos', -3565.6002614034237), ('neg', -3592.5741049229805)]
+Document No:16679.txt
+Predicted Values:[('neg', -8387.392363184073), ('pos', -8387.696370757993)]
+Document No:16908.txt
+Predicted Values:[('pos', -9571.070714332687), ('neg', -9700.732775117109)]
+Document No:25413.txt
+Predicted Values:[('neg', -8129.658973623129), ('pos', -8329.383735144742)]
+Document No:11920.txt
+Predicted Values:[('neg', -13310.399953232713), ('pos', -13326.924231241785)]
+Document No:10681.txt
+Predicted Values:[('pos', -7476.711451296049), ('neg', -7627.187362197464)]
+Document No:3193.txt
+Predicted Values:[('pos', -6333.454802699304), ('neg', -6371.715208900674)]
+Document No:5794.txt
+Predicted Values:[('neg', -5690.33069157008), ('pos', -5713.589947302587)]
+Document No:11017.txt
+Predicted Values:[('neg', -2608.315424184337), ('pos', -2616.9970979941622)]
+Document No:26154.txt
+Predicted Values:[('neg', -4106.843573194543), ('pos', -4144.302704064344)]
+Document No:12270.txt
+Predicted Values:[('neg', -5447.25930744103), ('pos', -5509.292048200587)]
+Document No:14636.txt
+Predicted Values:[('neg', -5140.7853902157885), ('pos', -5168.7966110143)]
+Document No:16380.txt
+Predicted Values:[('pos', -5449.48165596971), ('neg', -5582.457659166101)]
+Document No:11934.txt
+Predicted Values:[('neg', -2867.1974872725805), ('pos', -2869.531061465205)]
+Document No:24303.txt
+Predicted Values:[('neg', -4142.7380441622045), ('pos', -4143.054803192241)]
+Document No:18155.txt
+Predicted Values:[('neg', -4574.960299207904), ('pos', -4644.864846630115)]
+Document No:10185.txt
+Predicted Values:[('neg', -3145.7702849374846), ('pos', -3155.7313290709317)]
+Document No:2693.txt
+Predicted Values:[('neg', -5041.650942693246), ('pos', -5155.670769795081)]
+Document No:7208.txt
+Predicted Values:[('pos', -7642.907023961176), ('neg', -7653.183585098999)]
+Document No:1841.txt
+Predicted Values:[('neg', -2860.31963506771), ('pos', -2888.642970993959)]
+Document No:9960.txt
+Predicted Values:[('pos', -5736.669738390568), ('neg', -5774.117539505853)]
+Document No:12767.txt
+Predicted Values:[('pos', -5571.60284163071), ('neg', -5650.386969156612)]
+Document No:11491.txt
+Predicted Values:[('neg', -3360.1967457034575), ('pos', -3375.6141460905324)]
+Document No:25870.txt
+Predicted Values:[('neg', -5924.381923664435), ('pos', -6143.070040544592)]
+Document No:12350.txt
+Predicted Values:[('pos', -5366.498116695724), ('neg', -5366.543180800927)]
+Document No:25001.txt
+Predicted Values:[('pos', -9132.482919066448), ('neg', -9223.02678139854)]
+Document No:14611.txt
+Predicted Values:[('neg', -4089.7912399094826), ('pos', -4102.194592896666)]
+Document No:28832.txt
+Predicted Values:[('pos', -6525.700763841421), ('neg', -6600.73640072323)]
+Document No:26375.txt
+Predicted Values:[('pos', -6770.488439639738), ('neg', -6771.619543288426)]
+Document No:29007.txt
+Predicted Values:[('neg', -9249.743177541), ('pos', -9272.92984672898)]
+Document No:17034.txt
+Predicted Values:[('neg', -4693.805373550024), ('pos', -4792.888159193588)]
+Document No:11962.txt
+Predicted Values:[('neg', -14388.522213524879), ('pos', -14591.683336387583)]
+Document No:26417.txt
+Predicted Values:[('pos', -5540.691775306292), ('neg', -5564.874723027016)]
+Document No:9459.txt
+Predicted Values:[('neg', -4669.530856935622), ('pos', -4734.473572250571)]
+Document No:17822.txt
+Predicted Values:[('pos', -7335.170292460418), ('neg', -7509.520607367206)]
+Document No:21565.txt
+Predicted Values:[('neg', -8130.579176867901), ('pos', -8246.028853807686)]
+Document No:11051.txt
+Predicted Values:[('pos', -4294.506882693074), ('neg', -4564.427333542992)]
+Document No:18921.txt
+Predicted Values:[('pos', -8370.675319227816), ('neg', -8398.960939442597)]
+Document No:24218.txt
+Predicted Values:[('pos', -6536.666979301162), ('neg', -6609.775777761475)]
+Document No:21821.txt
+Predicted Values:[('pos', -7395.548210701028), ('neg', -7467.020393056013)]
+Document No:4776.txt
+Predicted Values:[('neg', -4752.153013944641), ('pos', -4840.392334432738)]
+Document No:19973.txt
+Predicted Values:[('pos', -7202.608122115631), ('neg', -7264.050318569544)]
+Document No:26071.txt
+Predicted Values:[('neg', -5437.155016345468), ('pos', -5445.780740852567)]
+Document No:12256.txt
+Predicted Values:[('pos', -10991.0620851824), ('neg', -11190.302684264358)]
+Document No:18471.txt
+Predicted Values:[('pos', -15257.395837936143), ('neg', -15458.84711551821)]
+Document No:5046.txt
+Predicted Values:[('pos', -10920.968243592833), ('neg', -11119.744653016596)]
+Document No:17705.txt
+Predicted Values:[('pos', -6072.8987952916295), ('neg', -6149.174889824057)]
+Document No:8841.txt
+Predicted Values:[('neg', -4568.87674882289), ('pos', -4625.009680231127)]
+Document No:11816.txt
+Predicted Values:[('neg', -8347.154939891543), ('pos', -8527.084045827134)]
+Document No:23113.txt
+Predicted Values:[('neg', -13980.041987604469), ('pos', -14402.03757960626)]
+Document No:28877.txt
+Predicted Values:[('neg', -6120.543448204927), ('pos', -6149.485818247356)]
+Document No:17297.txt
+Predicted Values:[('neg', -4175.777120817778), ('pos', -4231.887032099679)]
+Document No:9059.txt
+Predicted Values:[('neg', -4229.714384744067), ('pos', -4236.489823463922)]
+Document No:9803.txt
+Predicted Values:[('pos', -5292.138426812605), ('neg', -5361.44433349331)]
+Document No:13106.txt
+Predicted Values:[('pos', -10018.655467387292), ('neg', -10472.428250003322)]
+Document No:10246.txt
+Predicted Values:[('pos', -5989.075791004011), ('neg', -6240.369801242189)]
+Document No:10601.txt
+Predicted Values:[('neg', -6099.327904338867), ('pos', -6147.205541397725)]
+Document No:13475.txt
+Predicted Values:[('pos', -9663.411983739496), ('neg', -9810.955852745295)]
+Document No:10718.txt
+Predicted Values:[('pos', -7104.966664877988), ('neg', -7124.451008291897)]
+Document No:28671.txt
+Predicted Values:[('neg', -7008.059991653318), ('pos', -7047.383017805501)]
+Document No:29737.txt
+Predicted Values:[('pos', -6733.943534681202), ('neg', -6808.154292125394)]
+Document No:7394.txt
+Predicted Values:[('neg', -7119.962143132349), ('pos', -7277.779352939946)]
+Document No:29397.txt
+Predicted Values:[('neg', -5276.456524803661), ('pos', -5345.083379748717)]
+Document No:13229.txt
+Predicted Values:[('neg', -8413.153334490476), ('pos', -8526.756034528675)]
+Document No:11592.txt
+Predicted Values:[('pos', -3209.269687671167), ('neg', -3264.7051103444273)]
+Document No:13478.txt
+Predicted Values:[('neg', -13162.595057023353), ('pos', -13277.869997308737)]
+Document No:21103.txt
+Predicted Values:[('pos', -6187.246754621215), ('neg', -6300.902992740463)]
+Document No:16218.txt
+Predicted Values:[('neg', -5541.350981417478), ('pos', -5675.76825360672)]
+Document No:10800.txt
+Predicted Values:[('neg', -4871.564474800025), ('pos', -4950.47762348177)]
+Document No:6895.txt
+Predicted Values:[('pos', -7826.638353568565), ('neg', -7838.627564267934)]
+Document No:13217.txt
+Predicted Values:[('neg', -6687.97763317635), ('pos', -6802.6579076904645)]
+Document No:6359.txt
+Predicted Values:[('pos', -6359.861125552379), ('neg', -6396.4253098032295)]
+Document No:18628.txt
+Predicted Values:[('pos', -4767.688585240245), ('neg', -4779.094656004834)]
+Document No:19027.txt
+Predicted Values:[('pos', -4817.7996291065765), ('neg', -4863.066741536826)]
+Document No:11790.txt
+Predicted Values:[('neg', -7635.718941424162), ('pos', -7800.2989281121845)]
+Document No:18450.txt
+Predicted Values:[('pos', -6874.436215642971), ('neg', -7049.4968793554035)]
+Document No:21695.txt
+Predicted Values:[('neg', -8298.677911800536), ('pos', -8577.463300176185)]
+Document No:10953.txt
+Predicted Values:[('pos', -4700.029824171378), ('neg', -4722.0608522017865)]
+Document No:8737.txt
+Predicted Values:[('pos', -4845.183876956398), ('neg', -4883.638973758689)]
+Document No:8969.txt
+Predicted Values:[('pos', -7238.258648961839), ('neg', -7438.035713313319)]
+Document No:10583.txt
+Predicted Values:[('pos', -5055.280134392821), ('neg', -5076.746345578743)]
+Document No:20084.txt
+Predicted Values:[('neg', -7007.504092290442), ('pos', -7171.748567182842)]
+Document No:20168.txt
+Predicted Values:[('neg', -8100.42261187413), ('pos', -8177.651877832881)]
+Document No:15042.txt
+Predicted Values:[('neg', -6077.329710821057), ('pos', -6107.812999814705)]
+Document No:29622.txt
+Predicted Values:[('pos', -5320.036765306828), ('neg', -5505.24902582582)]
+Positive Predictions :93
+Negative Predictions :107
